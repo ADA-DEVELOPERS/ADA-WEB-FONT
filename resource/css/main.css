@@ -1,0 +1,56 @@
+body {
+    color: #fff;
+    background: #263137;
+  }
+h1.ada-h1 {
+    text-align: center;
+    font-family: 'Bellota', cursive;
+    color: #009a8a;
+    /* margin: -65px 0 0 0; */
+}
+.ada-title {
+    text-align: center;
+}
+img.ada-title-img {
+    width: 450px;
+}
+h5.ada-sub-title {
+    margin: -30px 0 0 0;
+    color: #f0f0f0;
+    font-variant: petite-caps;
+    font-size: 25px;
+}
+.mine-menu {
+    text-align: center;
+    padding-top:15px;
+}
+a {
+    text-decoration: blink;
+    color: #fff;
+    border: solid 1px #009a8a;
+    padding: 6px 7px;
+}
+.ada-intro {
+    text-align: center;
+    padding: 15px 0;
+}
+i.menu {
+    padding: 5px;
+    margin: 0;
+    font-family: Bellota!important;
+}
+.clearfix.bshadow0.pbs {
+    font-size: 35px;
+    color: #009a8a;
+}
+i.icons{
+  color: #fff;
+}
+pre {
+    border: dashed 1px #634F36;
+    /* background: #fffff5; */
+    font-family: "Courier New", Courier, monospace;
+    padding: 7px;
+    font-size: 80%;
+    margin: 0 0 1em;
+   }
