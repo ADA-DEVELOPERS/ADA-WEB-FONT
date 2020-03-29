@@ -43,7 +43,7 @@ i.menu {
 }
 .clearfix.bshadow0.pbs {
     font-size: 27px;
-    text-align: center;
+    /* text-align: center; */
     color: #009a8a;
 }
 i.icons{
@@ -218,4 +218,7 @@ img.side {
 }
 a.img-side {
     border: none;
+}
+span.mls {
+    font-size: 15px;
 }
