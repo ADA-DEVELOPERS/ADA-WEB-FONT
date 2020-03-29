@@ -1,6 +1,6 @@
 body {
-    color: #fff;
-    background: #263137;
+    color: #263137;
+    background: #fff;
     font-family: 'Bellota', cursive;
   }
 h1.ada-h1 {
@@ -17,7 +17,7 @@ img.ada-title-img {
 }
 h5.ada-sub-title {
     margin: -20px 0 19px 0;
-    color: #f0f0f0;
+    color: #000;
     font-variant: petite-caps;
     font-size: 25px;
 }
@@ -39,7 +39,7 @@ i.menu {
     padding: 5px;
     margin: 0;
     font-family: Bellota!important;
-    color: #fff;
+    color: #000;
 }
 .clearfix.bshadow0.pbs {
     font-size: 27px;
@@ -178,7 +178,7 @@ span.yellow {
     border-radius: 5px;
     /* border-color: #fff; */
     padding: 0 0 3px 0;
-    background-color: #ffffffb0;
+    /* background-color: #ffffffb0; */
 }
 xmp.head {
     COLOR: #009a8a;
@@ -187,7 +187,7 @@ xmp.body {
     COLOR: #009a8a;
 }
 xmp.coment {
-    color: #ffffff61;
+    color: #0000004a;
 }
 xmp.head-link {
     color: #ff922b;
@@ -198,24 +198,4 @@ img.cod-img {
 }
 .bottom {
     margin: -50px 0 0 0;
-}
-.col-md-6.side-dark {
-    background-color: #263137;
-    padding: 145px;
-    text-align: center;
-    /* height: 100vh; */
-}
-.col-md-6.side-white {
-    background-color: #fff;
-    color: #263137;
-    padding: 145px;
-    text-align: center;
-    /* height: 100vh; */
-}
-img.side {
-    height: 170px;
-    padding: 0 0 15px 0;
-}
-a.img-side {
-    border: none;
 }
