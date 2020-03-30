@@ -200,5 +200,16 @@ img.cod-img {
     margin: -50px 0 0 0;
 }
 span.mls {
-    font-size: 15px;
+    font-size: 13px;
+    font-family: Arial;
+    color: #000;
+    vertical-align: super;
+}
+h1.font-group {
+    text-align: center;
+    background-color: #009a8a;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 0;
 }
