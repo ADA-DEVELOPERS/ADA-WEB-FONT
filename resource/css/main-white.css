@@ -42,9 +42,9 @@ i.menu {
     color: #000;
 }
 .clearfix.bshadow0.pbs {
-    font-size: 27px;
+    font-size: 40px;
     /* text-align: center; */
-    color: #009a8a;
+    color: #18009a;
 }
 i.icons{
   color: #fff;
@@ -63,7 +63,7 @@ hr {
     margin-top: -13px;
     margin-bottom: 1rem;
     border: 0;
-    border-top: 1px solid rgba(249, 246, 246, 0.62);
+    border-top: 1px solid rgb(0, 154, 138);
     padding: 0 68px;
 }
 img.logo {
@@ -200,16 +200,18 @@ img.cod-img {
     margin: -50px 0 0 0;
 }
 span.mls {
-    font-size: 13px;
+    font-size: 12px;
+    margin: 0 -10px;
     font-family: Arial;
     color: #000;
     vertical-align: super;
 }
 h1.font-group {
-    text-align: center;
-    background-color: #009a8a;
-    border-radius: 10px;
-    text-decoration: none;
-    color: #fff;
-    padding: 5px 0;
+  text-align: center;
+  /* background-color: #009a8a; */
+  border-radius: 10px;
+  text-decoration: none;
+  color: #000;
+  padding: 5px 0;
+
 }

@@ -42,9 +42,9 @@ i.menu {
     color: #fff;
 }
 .clearfix.bshadow0.pbs {
-    font-size: 27px;
+    font-size: 40px;
     /* text-align: center; */
-    color: #009a8a;
+    color: #ffeb00d9;
 }
 i.icons{
   color: #fff;
@@ -127,9 +127,11 @@ input.form-control {
 }
 .col-md-12.serch {
     text-align: center;
+    padding: 40px;
 }
 .row.serch-icon {
     text-align: center;
+    padding-bottom: 36px;
 }
 span.red {
     background-color: #ff00006b;
@@ -166,11 +168,13 @@ span.yellow {
     text-align: left;
 }
 .col-md-6.monitor {
-    background-color: #009a8a21;
-    color: #000;
-    text-align: left;
-    border-radius: 5px;
-    border-color: ;
+
+  background-color: #0000008c;
+  color: #000;
+  text-align: left;
+  border-radius: 5px;
+  border-color: ;
+
 }
 .monitor.title {
     text-align: center;
@@ -178,7 +182,8 @@ span.yellow {
     border-radius: 5px;
     /* border-color: #fff; */
     padding: 0 0 3px 0;
-    background-color: #ffffffb0;
+    color: #fff;
+    /* background-color: #ffffffb0; */
 }
 xmp.head {
     COLOR: #009a8a;
@@ -220,14 +225,15 @@ a.img-side {
     border: none;
 }
 span.mls {
-    font-size: 13px;
+    font-size: 12px;
+    margin: 0 -10px;
     font-family: Arial;
-    color: #000;
+    color: #FFF;
     vertical-align: super;
 }
 h1.font-group {
     text-align: center;
-    background-color: #009a8a;
+    /* background-color: #009a8a; */
     border-radius: 10px;
     text-decoration: none;
     color: #fff;
