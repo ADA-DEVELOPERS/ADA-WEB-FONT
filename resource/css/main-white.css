@@ -209,7 +209,7 @@ h1.font-group {
   /* background-color: #009a8a; */
   border-radius: 10px;
   text-decoration: none;
-  color: #000;
+  color: ##009a8a;
   padding: 5px 0;
 
 }
@@ -327,4 +327,14 @@ img.ada-des-img {
 }
 .col-md-4.des {
     text-align: center;
+}
+b.version {
+    padding: 5px 8px;
+    background-color: #009a98;
+    margin: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    vertical-align: super;
+    font-family: Arial;
+    color: #f3f3f3;
 }
