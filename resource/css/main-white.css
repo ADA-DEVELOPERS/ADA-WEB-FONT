@@ -319,3 +319,12 @@ h1.font-group {
     color: #ffffff;
   }
 }
+h3.des-h3 {
+    text-align: center;
+}
+img.ada-des-img {
+    height: 150px;
+}
+.col-md-4.des {
+    text-align: center;
+}

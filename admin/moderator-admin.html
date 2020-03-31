@@ -1,0 +1,193 @@
+ <!DOCTYPE html>
+ <html lang="ru-RU">
+<head>
+     <meta charset="UTF-8">
+     <title>ADA WEB FONT - Home</title>
+     <link rel="shortcut icon" href="favicon.ico">
+     <meta name="description" content="DESCRIPTION">
+    <link rel="stylesheet" href="PATH">
+    <link rel="stylesheet" href="../resource/css/main.css">
+    <link rel="stylesheet" href="../resource/plugins/bootstrap/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Bellota&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../resource/plugins/ADA-WEB-FONT/style.css">
+    <link rel="stylesheet" href="../path/to/styles/default.css">
+
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="../resource/plugins/bootstrap/bootstrap.min.js"></script>
+
+ </head>
+ <body>
+   <div class="row">
+     <div class="col-md-12">
+       <h1>ADA FONTS PANEL</h1>
+       <hr>
+     </div>
+     <div class="col-md-4">
+       <div class="box1">
+          <a class="IMG-button" href="#popup1"><img class="admin-icon-blok" src="../resource\images\news.svg" alt=""><br></a>
+          <a class="button" href="#popup2">ADD NEWS</a>
+       </div>
+     </div>
+     <div class="col-md-4">
+       <div class="box1">
+          <a class="IMG-button" href="#popup2"><img class="admin-icon-blok"  src="../resource\images\icon.svg" alt=""><br></a>
+          <a class="button" href="#popup2">ADD Icons</a>
+       </div>
+     </div>
+     <div class="col-md-4">
+       <div class="box1">
+          <a class="IMG-button" href="#popup3"><img class="admin-icon-blok"  src="../resource\images\designer.svg" alt=""><br></a>
+          <a class="button" href="#popup3">ADD designers</a>
+       </div>
+     </div>
+   </div>
+
+<!-- popup windows -->
+
+   <div id="popup1" class="overlay">
+   	<div class="popup">
+   		<h2>You can add news</h2>
+   		<a class="close" href="#">&times;</a>
+   		<div class="content">
+        <div class="row">
+          <div class="col-sm-10">
+            <h3 class="admin-title">Title</h3>
+            <input type="text" class="form-control error" data-validation="strEN">
+     		  </div>
+          <div class="col-sm-2">
+            <h3 class="admin-title">Date</h3>
+            <input type="date" class="form-control Date" max="2060-04-20" min="2020-04-10" value="2020-04-10"/>
+            <hr></br>
+            <button type="button" class="btn btn-primary btn-lg btn-block"><a class="red" href="#">Save</a></button>
+          </div>
+
+          <div class="col-sm-10 has-error">
+            <h3 class="admin-title">Article</h3>
+            <input type="text" class="form-control article" data-validation="strEN" " data-validation-has-keyup-event="true">
+   		    </div>
+
+
+        </div>
+   	  </div>
+    </div>
+   </div>
+
+   <div id="popup2" class="overlay">
+   	<div class="popup">
+   		<h2>Add Icons</h2>
+   		<a class="close" href="#">&times;</a>
+   		<div class="content">
+   			<div class="row">
+          <div class="col-md-6">
+            <h3 class="admin-title">Icon class</h3>
+            <input type="text" class="form-control error" data-validation="strEN">
+          </div>
+            <div class="col-md-2">
+              <h3 class="admin-title">Versione</h3>
+              <select class="select-admin">
+                <option>V 1.0 (Old)</option>
+                <option>V 1.1 (Old)</option>
+                <option>V 1.2 (Old)</option>
+                <option>V 1.3 (Old)</option>
+                <option>V 1.4 (Old)</option>
+                <option>V 1.5 (Old)</option>
+                <option>V 2.1 (Old)</option>
+                <option>V 2.2 (Old)</option>
+                <option>V 2.3 (Old)</option>
+                <option>V 2.4 (Old)</option>
+                <option>V 2.5 (Old)</option>
+                <option>V 3.0 </option>
+                <option>V 3.1 </option>
+                <option>V 3.2 </option>
+                <option>V 4.0 </option>
+                <option>V 4.1 </option>
+                <option>V 5.0 (Lite)</option>
+                <option>V 5.0 (PRO)</option>
+                <option>V 6.0 (Lite)</option>
+                <option>V 6.0 (PRO)</option>
+              </select>
+            </div>
+            <div class="col-md-4">
+              <h3 class="admin-title">Save new icon</h3>
+
+              <button type="button" class="btn btn-primary btn-lg btn-block"><a class="red href="#">Save</a></button>
+            </div>
+            <div class="col-md-12">
+              <h3 class="admin-title">Icon category</h3>
+              <input type="checkbox"/> People
+              <input type="checkbox"/> Brands
+              <input type="checkbox"/> Coding
+              <input type="checkbox"/> Programer
+              <input type="checkbox"/> Profession
+              <input type="checkbox"/> Medicine
+              <input type="checkbox"/> Apps
+              <input type="checkbox"/> Gameing brands
+              <input type="checkbox"/> Lerning
+              <input type="checkbox"/> Calendar
+              <input type="checkbox"/> Camera
+              <input type="checkbox"/> Computer
+              <input type="checkbox"/> Earth
+              <input type="checkbox"/> File
+              <input type="checkbox"/> Food
+              <input type="checkbox"/> Safety
+              <input type="checkbox"/> Science
+              <input type="checkbox"/> Sport
+              <input type="checkbox"/> Technology
+              <input type="checkbox"/> Tree
+              <input type="checkbox"/> Сlothes
+
+            </div>
+            <div class="col-md-6">
+              <h3 class="admin-title">Add new category icons</h3>
+              <input type="text" class="form-control error" data-validation="strEN">
+            </div>
+        </div>
+   		</div>
+   	</div>
+   </div>
+
+   <div id="popup3" class="overlay">
+   	<div class="popup">
+   		<h2>Add designers</h2>
+   		<a class="close" href="#">&times;</a>
+   		<div class="content">
+        <div class="row">
+          <div class="col-md-6">
+            <h3 class="admin-title">Name</h3>
+            <input type="text" class="form-control error" data-validation="strEN">
+          </div>
+          <div class="col-md-6">
+            <h3 class="admin-title">E-mail</h3>
+            <input type="text" class="form-control error" data-validation="strEN">
+          </div>
+          <div class="col-md-6">
+            <h3 class="admin-title">Select designer status</h3>
+            <input type="checkbox"/> Disigner
+            <input type="checkbox"/> Disign studio
+            <input type="checkbox"/> Freelanser
+          </div>
+          <div class="col-md-6">
+            <h3 class="admin-title">Send for verification</h3>
+            <button type="button" class="btn btn-primary btn-lg btn-block"><a class="red href="#">Send request</a></button>
+          </div>
+
+        </div>
+   		</div>
+   	</div>
+   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+
+ </html>

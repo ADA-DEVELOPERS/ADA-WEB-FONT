@@ -324,8 +324,9 @@ h1 {
 }
 .popup .content {
     max-height: 100%;
-    overflow: auto;
-    height: 90%;
+    /* padding: 25px 0 0 0; */
+    /* overflow: auto; */
+    /* height: 250px; */
 }
 
 @media screen and (max-width: 700px){
@@ -337,5 +338,43 @@ h1 {
   }
 }
 .box1 {
+    text-align: center;
+}
+h3.admin-title {
+    padding: 0 0 25px 0;
+    text-align: center;
+}
+input.form-control.article {
+    height: 150px;
+}
+select.select-admin {
+    display: block;
+    /* width: 35%; */
+    padding: .375rem .75rem;
+    font-size: 19px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin: -19px 0 0 0;
+}
+a.red {
+    color: #fff;
+    border: none;
+    text-decoration: none;
+}
+a.IMG-button {
+    border: none;
+}
+h3.des-h3 {
+    text-align: center;
+}
+img.ada-des-img {
+    height: 150px;
+}
+.col-md-4.des {
     text-align: center;
 }
