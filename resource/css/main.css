@@ -378,3 +378,13 @@ img.ada-des-img {
 .col-md-4.des {
     text-align: center;
 }
+b.version {
+    padding: 5px 8px;
+    background-color: #fff;
+    margin: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    vertical-align: super;
+    font-family: Arial;
+    color: #009a8a;
+}

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ADA-WEB-FONT';
-  src:  url('fonts/ADA-WEB-FONT.eot?6dueuj');
-  src:  url('fonts/ADA-WEB-FONT.eot?6dueuj#iefix') format('embedded-opentype'),
-    url('fonts/ADA-WEB-FONT.ttf?6dueuj') format('truetype'),
-    url('fonts/ADA-WEB-FONT.woff?6dueuj') format('woff'),
-    url('fonts/ADA-WEB-FONT.svg?6dueuj#ADA-WEB-FONT') format('svg');
+  src:  url('fonts/ADA-WEB-FONT.eot?dz26ze');
+  src:  url('fonts/ADA-WEB-FONT.eot?dz26ze#iefix') format('embedded-opentype'),
+    url('fonts/ADA-WEB-FONT.ttf?dz26ze') format('truetype'),
+    url('fonts/ADA-WEB-FONT.woff?dz26ze') format('woff'),
+    url('fonts/ADA-WEB-FONT.svg?dz26ze#ADA-WEB-FONT') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -36,634 +36,634 @@ i, .icomoon-liga {
 }
 
 .ada-ambulance:before {
-  content: "\eb66";
+  content: "\ed31";
 }
 .ada-baby-face:before {
-  content: "\eb67";
+  content: "\ed33";
 }
 .ada-bandage-cross:before {
-  content: "\eb68";
+  content: "\ed35";
 }
 .ada-biohazard:before {
-  content: "\eb69";
+  content: "\ed37";
 }
 .ada-biology-shape:before {
-  content: "\eb6a";
+  content: "\ed39";
 }
 .ada-blood-analysis:before {
-  content: "\eb6b";
+  content: "\ed3b";
 }
 .ada-blood-cell:before {
-  content: "\eb6c";
+  content: "\ed3d";
 }
 .ada-blood-drop:before {
-  content: "\eb6d";
+  content: "\ed3f";
 }
 .ada-blood-pressure-control-tool:before {
-  content: "\eb6e";
+  content: "\ed41";
 }
 .ada-blood-sample:before {
-  content: "\eb6f";
+  content: "\ed43";
 }
 .ada-blood-transfusion:before {
-  content: "\eb70";
+  content: "\ed45";
 }
 .ada-brain-in-bald-male-head:before {
-  content: "\eb71";
+  content: "\ed47";
 }
 .ada-broken-bone:before {
-  content: "\eb72";
+  content: "\ed49";
 }
 .ada-broken-feet-with-bandage:before {
-  content: "\eb73";
+  content: "\ed4b";
 }
 .ada-brush-with-tooth-paste:before {
-  content: "\eb74";
+  content: "\ed4d";
 }
 .ada-caduceus-medical-symbol-of-two-ascending-serpents-on-a-cane-with-wings:before {
-  content: "\eb75";
+  content: "\ed4f";
 }
 .ada-cells-in-a-circle:before {
-  content: "\eb76";
+  content: "\ed51";
 }
 .ada-chemistry-flask-with-liquid:before {
-  content: "\eb77";
+  content: "\ed53";
 }
 .ada-crutch:before {
-  content: "\eb78";
+  content: "\ed55";
 }
 .ada-crutches-couple:before {
-  content: "\eb79";
+  content: "\ed57";
 }
 .ada-dentist-tool:before {
-  content: "\eb7a";
+  content: "\ed59";
 }
 .ada-dosage-medical-tool:before {
-  content: "\eb7b";
+  content: "\ed5b";
 }
 .ada-drug-pills:before {
-  content: "\eb7c";
+  content: "\ed5d";
 }
 .ada-drugs-capsules-and-pills:before {
-  content: "\eb7d";
+  content: "\ed5f";
 }
 .ada-emergency-light:before {
-  content: "\eb7e";
+  content: "\ed61";
 }
 .ada-eye-scanner-medical-symbol:before {
-  content: "\eb7f";
+  content: "\ed63";
 }
 .ada-family-of-heterosexual-couple:before {
-  content: "\eb80";
+  content: "\ed65";
 }
 .ada-female-sign:before {
-  content: "\eb81";
+  content: "\ed67";
 }
 .ada-first-aid-kit:before {
-  content: "\eb82";
+  content: "\ed69";
 }
 .ada-handicap:before {
-  content: "\eb83";
+  content: "\ed6b";
 }
 .ada-heart-beats-lifeline-in-a-heart:before {
-  content: "\eb84";
+  content: "\ed6d";
 }
 .ada-heart-black-shape:before {
-  content: "\eb85";
+  content: "\ed6f";
 }
 .ada-heart-rate-monitor:before {
-  content: "\eb86";
+  content: "\ed71";
 }
 .ada-hospital-bed-silhouette-side-view:before {
-  content: "\eb87";
+  content: "\ed73";
 }
 .ada-hospital-building-front:before {
-  content: "\eb88";
+  content: "\ed75";
 }
 .ada-hospital-letter-sign-in-rounded-square:before {
-  content: "\eb89";
+  content: "\ed77";
 }
 .ada-hospital-medical-signal-of-a-cross-in-a-circle:before {
-  content: "\eb8a";
+  content: "\ed79";
 }
 .ada-hospital-placeholder:before {
-  content: "\eb8b";
+  content: "\ed7b";
 }
 .ada-human-ear-shape:before {
-  content: "\eb8c";
+  content: "\ed7d";
 }
 .ada-human-eye-shape:before {
-  content: "\eb8d";
+  content: "\ed7f";
 }
 .ada-human-feet-shape:before {
-  content: "\eb8e";
+  content: "\ed81";
 }
 .ada-hurted-finger-with-bandage:before {
-  content: "\eb8f";
+  content: "\ed83";
 }
 .ada-illness-on-bed:before {
-  content: "\eb90";
+  content: "\ed85";
 }
 .ada-lifeline-of-heartbeats-on-a-paper-on-a-clipboard:before {
-  content: "\eb91";
+  content: "\ed87";
 }
 .ada-lungs-silhouette:before {
-  content: "\eb92";
+  content: "\ed89";
 }
 .ada-male-gender-sign:before {
-  content: "\eb93";
+  content: "\ed8b";
 }
 .ada-medical-chain-symbol-of-dna:before {
-  content: "\eb94";
+  content: "\ed8d";
 }
 .ada-medical-chopper-transport:before {
-  content: "\eb95";
+  content: "\ed8f";
 }
 .ada-medical-circular-glasses:before {
-  content: "\eb96";
+  content: "\ed91";
 }
 .ada-medical-doctor-specialist:before {
-  content: "\eb97";
+  content: "\ed93";
 }
 .ada-medical-hammer-tool:before {
-  content: "\eb98";
+  content: "\ed95";
 }
 .ada-medical-heart-scan:before {
-  content: "\eb99";
+  content: "\ed97";
 }
 .ada-medical-notes:before {
-  content: "\eb9a";
+  content: "\ed99";
 }
 .ada-medical-pill:before {
-  content: "\eb9b";
+  content: "\ed9b";
 }
 .ada-medical-results-folders:before {
-  content: "\eb9c";
+  content: "\ed9d";
 }
 .ada-medical-test:before {
-  content: "\eb9d";
+  content: "\ed9f";
 }
 .ada-medical-talk:before {
-  content: "\eb9e";
+  content: "\eda1";
 }
 .ada-medical-temperature-control-tool:before {
-  content: "\eb9f";
+  content: "\eda3";
 }
 .ada-medicine-capsules:before {
-  content: "\eba0";
+  content: "\eda5";
 }
 .ada-medicines-bowl:before {
-  content: "\eba1";
+  content: "\eda7";
 }
 .ada-medicine-small-bottle:before {
-  content: "\eba2";
+  content: "\eda9";
 }
 .ada-men-silhouette:before {
-  content: "\eba3";
+  content: "\edab";
 }
 .ada-microscope-tool:before {
-  content: "\eba4";
+  content: "\edad";
 }
 .ada-mother-with-baby-in-arms1:before {
-  content: "\eba5";
+  content: "\edaf";
 }
 .ada-mouth-tube-in-bald-male-head:before {
-  content: "\eba6";
+  content: "\edb1";
 }
 .ada-negative-sign:before {
-  content: "\eba7";
+  content: "\edb3";
 }
 .ada-nurse:before {
-  content: "\eba8";
+  content: "\edb5";
 }
 .ada-nurse-u:before {
-  content: "\eba9";
+  content: "\edb7";
 }
 .ada-scissors:before {
-  content: "\ebaa";
+  content: "\edb9";
 }
 .ada-oxygen:before {
-  content: "\ebab";
+  content: "\edbb";
 }
 .ada-person-with-broken-arm:before {
-  content: "\ebac";
+  content: "\edbd";
 }
 .ada-pharmacy-shopping-cart:before {
-  content: "\ebad";
+  content: "\edbf";
 }
 .ada-pharmacy:before {
-  content: "\ebae";
+  content: "\edc1";
 }
 .ada-pharmacy-tool:before {
-  content: "\ebaf";
+  content: "\edc3";
 }
 .ada-poison-bottle:before {
-  content: "\ebb0";
+  content: "\edc5";
 }
 .ada-positive-verified-symbol-of-a-clipboard:before {
-  content: "\ebb1";
+  content: "\edc7";
 }
 .ada-pregnancy:before {
-  content: "\ebb2";
+  content: "\edc9";
 }
 .ada-pulse-line:before {
-  content: "\ebb3";
+  content: "\edcb";
 }
 .ada-rolled-paper:before {
-  content: "\ebb4";
+  content: "\edcd";
 }
 .ada-scale-balanced:before {
-  content: "\ebb5";
+  content: "\edcf";
 }
 .ada-scale-tool-control:before {
-  content: "\ebb6";
+  content: "\edd1";
 }
 .ada-scalpel:before {
-  content: "\ebb7";
+  content: "\edd3";
 }
 .ada-screw:before {
-  content: "\ebb8";
+  content: "\edd5";
 }
 .ada-sperm:before {
-  content: "\ebb9";
+  content: "\edd7";
 }
 .ada-stethoscope:before {
-  content: "\ebba";
+  content: "\edd9";
 }
 .ada-stomach-shape:before {
-  content: "\ebbb";
+  content: "\eddb";
 }
 .ada-cancer-ribbon:before {
-  content: "\ebbc";
+  content: "\eddd";
 }
 .ada-syringe:before {
-  content: "\ebbd";
+  content: "\eddf";
 }
 .ada-syrup-medicine:before {
-  content: "\ebbe";
+  content: "\ede1";
 }
 .ada-tag-cross:before {
-  content: "\ebbf";
+  content: "\ede3";
 }
 .ada-teeth:before {
-  content: "\ebc0";
+  content: "\ede5";
 }
-.ada-thermometer:before {
-  content: "\ebc1";
+.ada-thermometer1:before {
+  content: "\ede7";
 }
-.ada-hexagons:before {
-  content: "\ebc2";
+.ada-hexagons1:before {
+  content: "\ede9";
 }
 .ada-toxic:before {
-  content: "\ebc3";
+  content: "\edeb";
 }
 .ada-unhealthy:before {
-  content: "\ebc4";
+  content: "\eded";
 }
 .ada-heterosexual:before {
-  content: "\ebc5";
+  content: "\ed2f";
 }
 .ada-glass:before {
-  content: "\ebc6";
+  content: "\ed29";
 }
 .ada-silhouette:before {
-  content: "\ebc7";
+  content: "\ed2b";
 }
 .ada-women:before {
-  content: "\ebc8";
+  content: "\ed2d";
 }
 .ada-x-ray:before {
-  content: "\ebc9";
+  content: "\ed27";
 }
 .ada-baby-carriage:before {
-  content: "\ebca";
+  content: "\ec75";
 }
 .ada-baby-on-stroller:before {
-  content: "\ebcb";
+  content: "\ec77";
 }
 .ada-baby-playing:before {
-  content: "\ebcc";
+  content: "\ec79";
 }
 .ada-bboy:before {
-  content: "\ebcd";
+  content: "\ec7b";
 }
 .ada-boy-in-bath:before {
-  content: "\ebce";
+  content: "\ec7d";
 }
 .ada-boy-rised:before {
-  content: "\ebcf";
+  content: "\ec7f";
 }
 .ada-child-balloon:before {
-  content: "\ebd0";
+  content: "\ec81";
 }
 .ada-couple:before {
-  content: "\ebd1";
+  content: "\ec83";
 }
 .ada-couple-in-love:before {
-  content: "\ebd2";
+  content: "\ec85";
 }
 .ada-couple-brothers:before {
-  content: "\ebd3";
+  content: "\ec87";
 }
 .ada-couple-man:before {
-  content: "\ebd4";
+  content: "\ec89";
 }
 .ada-couple-sisters:before {
-  content: "\ebd5";
+  content: "\ec8b";
 }
 .ada-couple-two-women-house:before {
-  content: "\ebd6";
+  content: "\ec8d";
 }
 .ada-couple-with-baby:before {
-  content: "\ebd7";
+  content: "\ec8f";
 }
 .ada-couple-daughter-heart:before {
-  content: "\ebd8";
+  content: "\ec91";
 }
 .ada-crawling-baby:before {
-  content: "\ebd9";
+  content: "\ec93";
 }
 .ada-familiar-group:before {
-  content: "\ebdb";
+  content: "\ec96";
 }
 .ada-group-couple:before {
-  content: "\ebde";
+  content: "\ec9a";
 }
 .ada-familiar-group-three:before {
-  content: "\ebe0";
+  content: "\ec9d";
 }
 .ada-familiar-group-of-three-persons-father-mother-and-son:before {
-  content: "\ebe1";
+  content: "\ec9f";
 }
 .ada-familiar-two-child:before {
-  content: "\ebe5";
+  content: "\eca4";
 }
 .ada-familiar-two-childs:before {
-  content: "\ebe8";
+  content: "\eca8";
 }
 .ada-familiar-love:before {
-  content: "\ebe9";
+  content: "\ecaa";
 }
 .ada-familiar-meeting:before {
-  content: "\ebea";
+  content: "\ecac";
 }
 .ada-family-group-of-a-couple-with-three-children:before {
-  content: "\ebeb";
+  content: "\ecae";
 }
 .ada-family-group-dog:before {
-  content: "\ebec";
+  content: "\ecb0";
 }
 .ada-family-in-home:before {
-  content: "\ebef";
+  content: "\ecb4";
 }
 .ada-family-of-three:before {
-  content: "\ebf1";
+  content: "\ecb7";
 }
 .ada-father-shopping:before {
-  content: "\ebf5";
+  content: "\ecbc";
 }
 .ada-father-playing:before {
-  content: "\ebf6";
+  content: "\ecbe";
 }
 .ada-father-playingwith-dog:before {
-  content: "\ebf7";
+  content: "\ecc0";
 }
 .ada-father-turning:before {
-  content: "\ebf8";
+  content: "\ecc2";
 }
 .ada-father-with-baby-stroller:before {
-  content: "\ebf9";
+  content: "\ecc4";
 }
 .ada-father-with-daughter:before {
-  content: "\ebfa";
+  content: "\ecc6";
 }
 .ada-father-daughter:before {
-  content: "\ebfb";
+  content: "\ecc8";
 }
 .ada-father-son:before {
-  content: "\ebfc";
+  content: "\ecca";
 }
 .ada-female-familiar:before {
-  content: "\ebfd";
+  content: "\eccc";
 }
 .ada-grandfather:before {
-  content: "\ebfe";
+  content: "\ecce";
 }
 .ada-grandmother:before {
-  content: "\ebff";
+  content: "\ecd0";
 }
 .ada-lesbian-couple:before {
-  content: "\ec00";
+  content: "\ecd2";
 }
 .ada-male-familiar:before {
-  content: "\ec03";
+  content: "\ecd6";
 }
 .ada-male-family-group:before {
-  content: "\ec04";
+  content: "\ecd8";
 }
 .ada-male-family:before {
-  content: "\ec05";
+  content: "\ecda";
 }
 .ada-males-couple:before {
-  content: "\ec06";
+  content: "\ecdc";
 }
 .ada-marriage-girlfriend:before {
-  content: "\ec09";
+  content: "\ece0";
 }
 .ada-man-rising:before {
-  content: "\ec0a";
+  content: "\ece2";
 }
 .ada-man-silhouette:before {
-  content: "\ec0b";
+  content: "\ece4";
 }
 .ada-man-shopping:before {
-  content: "\ec0c";
+  content: "\ece6";
 }
 .ada-man-and-baby:before {
-  content: "\ec0d";
+  content: "\ece8";
 }
 .ada-men-couple-love:before {
-  content: "\ec0e";
+  content: "\ecea";
 }
 .ada-men-couple-daughter:before {
-  content: "\ec0f";
+  content: "\ecec";
 }
 .ada-men-couple:before {
-  content: "\ec10";
+  content: "\ecee";
 }
 .ada-men-couple-childs:before {
-  content: "\ec11";
+  content: "\ecf0";
 }
 .ada-mother-and-father:before {
-  content: "\ec12";
+  content: "\ecf2";
 }
 .ada-mother-and-son:before {
-  content: "\ec13";
+  content: "\ecf4";
 }
 .ada-mother-carrying:before {
-  content: "\ec14";
+  content: "\ecf6";
 }
 .ada-mother-changing:before {
-  content: "\ec15";
+  content: "\ecf8";
 }
 .ada-family-group:before {
-  content: "\ec16";
+  content: "\ecfa";
 }
 .ada-mother-food:before {
-  content: "\ec17";
+  content: "\ecfc";
 }
 .ada-mother-loving:before {
-  content: "\ec18";
+  content: "\ecfe";
 }
 .ada-mother-walking-baby:before {
-  content: "\ec19";
+  content: "\ed00";
 }
 .ada-mother-walking:before {
-  content: "\ec1a";
+  content: "\ed02";
 }
 .ada-mother-son-stroller:before {
-  content: "\ec1b";
+  content: "\ed04";
 }
 .ada-mother-three-babies:before {
-  content: "\ec1c";
+  content: "\ed06";
 }
 .ada-mother-arms:before {
-  content: "\ec1d";
+  content: "\ed08";
 }
 .ada-mother-car:before {
-  content: "\ec1e";
+  content: "\ed0a";
 }
 .ada-mother-baby:before {
-  content: "\ec1f";
+  content: "\ed0c";
 }
 .ada-mother-daughter:before {
-  content: "\ec20";
+  content: "\ed0e";
 }
 .ada-mother-son:before {
-  content: "\ec21";
+  content: "\ed10";
 }
 .ada-pregnant-woman:before {
-  content: "\ec22";
+  content: "\ed12";
 }
 .ada-pregnant:before {
-  content: "\ec23";
+  content: "\ed14";
 }
 .ada-waiting-lunch:before {
-  content: "\ec24";
+  content: "\ed16";
 }
 .ada-three-women:before {
-  content: "\ec25";
+  content: "\ed18";
 }
 .ada-men-couple-house:before {
-  content: "\ec26";
+  content: "\ed1a";
 }
 .ada-kid-familiar:before {
-  content: "\ec27";
+  content: "\ed1c";
 }
 .ada-woman-standing:before {
-  content: "\ec28";
+  content: "\ed1e";
 }
 .ada-woman-baby:before {
-  content: "\ec29";
+  content: "\ec73";
 }
 .ada-women-couple:before {
-  content: "\ec2a";
+  content: "\ed20";
 }
 .ada-women-couple-son:before {
-  content: "\ec2c";
+  content: "\ed23";
 }
 .ada-young-woman:before {
-  content: "\ec2d";
+  content: "\ed25";
 }
 .ada-boy:before {
-  content: "\ec2e";
-}
-.ada-casual-male:before {
-  content: "\ec2f";
-}
-.ada-chef:before {
-  content: "\ec30";
-}
-.ada-engineer:before {
-  content: "\ec31";
-}
-.ada-farmer:before {
-  content: "\ec32";
-}
-.ada-female-chef:before {
-  content: "\ec33";
-}
-.ada-female-cooker:before {
-  content: "\ec34";
-}
-.ada-female-engineer:before {
-  content: "\ec35";
-}
-.ada-female-geek:before {
-  content: "\ec36";
-}
-.ada-female-graduate:before {
-  content: "\ec37";
-}
-.ada-gardener:before {
-  content: "\ec38";
-}
-.ada-geek-person:before {
-  content: "\ec39";
-}
-.ada-gentleman:before {
   content: "\ec3a";
 }
-.ada-girl:before {
-  content: "\ec3b";
-}
-.ada-graduate:before {
+.ada-casual-male:before {
   content: "\ec3c";
 }
-.ada-male:before {
-  content: "\ec3d";
-}
-.ada-man-with-shirt:before {
+.ada-chef:before {
   content: "\ec3e";
 }
-.ada-medical-doctor:before {
-  content: "\ec3f";
-}
-.ada-medieval-woman:before {
+.ada-engineer:before {
   content: "\ec40";
 }
-.ada-person-shirt:before {
-  content: "\ec41";
-}
-.ada-pilot:before {
+.ada-farmer:before {
   content: "\ec42";
 }
-.ada-policeman:before {
-  content: "\ec43";
+.ada-female-chef:before {
+  content: "\ec57";
 }
-.ada-professor:before {
+.ada-female-cooker:before {
+  content: "\ec59";
+}
+.ada-female-engineer:before {
+  content: "\ec5b";
+}
+.ada-female-geek:before {
+  content: "\ec5d";
+}
+.ada-female-graduate:before {
+  content: "\ec5f";
+}
+.ada-gardener:before {
+  content: "\ec61";
+}
+.ada-geek-person:before {
+  content: "\ec63";
+}
+.ada-gentleman:before {
   content: "\ec44";
 }
-.ada-stewardess:before {
-  content: "\ec45";
-}
-.ada-waiter:before {
+.ada-girl:before {
   content: "\ec46";
 }
-.ada-waitress:before {
-  content: "\ec47";
-}
-.ada-woman:before {
+.ada-graduate:before {
   content: "\ec48";
 }
+.ada-male:before {
+  content: "\ec4b";
+}
+.ada-man-with-shirt:before {
+  content: "\ec4d";
+}
+.ada-medical-doctor:before {
+  content: "\ec65";
+}
+.ada-medieval-woman:before {
+  content: "\ec67";
+}
+.ada-person-shirt:before {
+  content: "\ec69";
+}
+.ada-pilot:before {
+  content: "\ec6b";
+}
+.ada-policeman:before {
+  content: "\ec6d";
+}
+.ada-professor:before {
+  content: "\ec6f";
+}
+.ada-stewardess:before {
+  content: "\ec71";
+}
+.ada-waiter:before {
+  content: "\ec4f";
+}
+.ada-waitress:before {
+  content: "\ec51";
+}
+.ada-woman:before {
+  content: "\ec53";
+}
 .ada-woman-casual:before {
-  content: "\ec49";
+  content: "\ec55";
 }
 .ada-woman-dress:before {
   content: "\ec4a";
 }
 .ada-on-51-squared:before {
-  content: "\e900";
+  content: "\e907";
 }
 .ada-on-56-squared:before {
   content: "\e901";
@@ -684,7 +684,7 @@ i, .icomoon-liga {
   content: "\e906";
 }
 .ada-ashley-madison-squared:before {
-  content: "\e907";
+  content: "\ebff";
 }
 .ada-asmallworld-squared:before {
   content: "\e908";
@@ -705,574 +705,574 @@ i, .icomoon-liga {
   content: "\e90d";
 }
 .ada-behance-squared:before {
-  content: "\e90e";
+  content: "\ec01";
 }
 .ada-bettercodes-squared:before {
   content: "\e90f";
 }
 .ada-bisquits-squared:before {
-  content: "\e910";
-}
-.ada-bitacoras-squared:before {
-  content: "\e911";
-}
-.ada-bitacorasna-squared:before {
-  content: "\e912";
-}
-.ada-blackplanet-squared:before {
-  content: "\e913";
-}
-.ada-blogbus-squared:before {
-  content: "\e914";
-}
-.ada-blogger-squared:before {
-  content: "\e915";
-}
-.ada-bloson-squared:before {
-  content: "\e916";
-}
-.ada-bola-a-squared:before {
-  content: "\e917";
-}
-.ada-buzznet-squared:before {
-  content: "\e918";
-}
-.ada-cafemom-squared:before {
-  content: "\e919";
-}
-.ada-care2-squared:before {
-  content: "\e91a";
-}
-.ada-caringbridge-squared:before {
-  content: "\e91b";
-}
-.ada-cellufun-squared:before {
-  content: "\e91c";
-}
-.ada-citeulike-squared:before {
-  content: "\e91d";
-}
-.ada-classmates-squared:before {
-  content: "\e91e";
-}
-.ada-club-dante-squared:before {
-  content: "\e91f";
-}
-.ada-coderwall-squared:before {
   content: "\e920";
 }
-.ada-colourlovers-squared:before {
-  content: "\e921";
-}
-.ada-coroflot2-squared:before {
-  content: "\e922";
-}
-.ada-couchsurfing-squared:before {
-  content: "\e923";
-}
-.ada-creattica-squared:before {
-  content: "\e924";
-}
-.ada-tv-squared:before {
+.ada-bitacoras-squared:before {
   content: "\e925";
 }
-.ada-dailymotion-squared:before {
-  content: "\e926";
-}
-.ada-deezer-squared:before {
+.ada-bitacorasna-squared:before {
   content: "\e927";
 }
-.ada-delicious-squared:before {
-  content: "\e928";
-}
-.ada-desarrollo-squared:before {
+.ada-blackplanet-squared:before {
   content: "\e929";
 }
-.ada-designrelated-squared:before {
-  content: "\e92a";
-}
-.ada-deviantart-squared:before {
+.ada-blogbus-squared:before {
   content: "\e92b";
 }
-.ada-digg-squared:before {
-  content: "\e92c";
+.ada-blogger-squared:before {
+  content: "\ec03";
 }
-.ada-digg-logotype2-squared:before {
+.ada-bloson-squared:before {
   content: "\e92d";
 }
-.ada-divoblogger-squared:before {
-  content: "\e92e";
-}
-.ada-doodle-ly-squared:before {
+.ada-bola-a-squared:before {
   content: "\e92f";
 }
-.ada-douban-squared:before {
-  content: "\e930";
-}
-.ada-dribbble-squared:before {
+.ada-buzznet-squared:before {
   content: "\e931";
 }
-.ada-ebay-squared:before {
-  content: "\e932";
-}
-.ada-etsy-squared:before {
+.ada-cafemom-squared:before {
   content: "\e933";
 }
-.ada-everloop-squared:before {
-  content: "\e934";
-}
-.ada-ex-fm-squared:before {
+.ada-care2-squared:before {
   content: "\e935";
 }
-.ada-eyeem-squared:before {
-  content: "\e936";
-}
-.ada-facebook-squared:before {
+.ada-caringbridge-squared:before {
   content: "\e937";
 }
-.ada-fanlala-squared:before {
-  content: "\e938";
+.ada-cellufun-squared:before {
+  content: "\ec05";
 }
-.ada-flickr-squared:before {
+.ada-citeulike-squared:before {
   content: "\e939";
 }
-.ada-flipkart-squared:before {
-  content: "\e93a";
-}
-.ada-flixster-squared:before {
+.ada-classmates-squared:before {
   content: "\e93b";
 }
-.ada-fod-squared:before {
-  content: "\e93c";
-}
-.ada-fontli-squared:before {
+.ada-club-dante-squared:before {
   content: "\e93d";
 }
-.ada-fotki-squared:before {
-  content: "\e93e";
-}
-.ada-fotolog-squared:before {
+.ada-coderwall-squared:before {
   content: "\e93f";
 }
-.ada-foursquare-squared:before {
-  content: "\e940";
-}
-.ada-friendster-squared:before {
+.ada-colourlovers-squared:before {
   content: "\e941";
 }
-.ada-funny-or-die-squared:before {
-  content: "\e942";
-}
-.ada-gaiaonline-squared:before {
+.ada-coroflot2-squared:before {
   content: "\e943";
 }
-.ada-gather-squared:before {
-  content: "\e944";
+.ada-couchsurfing-squared:before {
+  content: "\ec07";
 }
-.ada-geni-squared:before {
+.ada-creattica-squared:before {
   content: "\e945";
 }
-.ada-geonick-squared:before {
-  content: "\e946";
-}
-.ada-glipho-squared:before {
+.ada-tv-squared:before {
   content: "\e947";
 }
-.ada-glogster-squared:before {
-  content: "\e948";
-}
-.ada-g-plus-squared:before {
+.ada-dailymotion-squared:before {
   content: "\e949";
 }
-.ada-grooveshark-squared:before {
-  content: "\e94a";
-}
-.ada-grou-ps-squared:before {
+.ada-deezer-squared:before {
   content: "\e94b";
 }
-.ada-habbo-squared:before {
-  content: "\e94c";
-}
-.ada-habbo-h-squared:before {
+.ada-delicious-squared:before {
   content: "\e94d";
 }
-.ada-heello-squared:before {
-  content: "\e94e";
-}
-.ada-hexun-squared:before {
+.ada-desarrollo-squared:before {
   content: "\e94f";
 }
-.ada-hi5-squared:before {
-  content: "\e950";
+.ada-designrelated-squared:before {
+  content: "\ec09";
 }
-.ada-hipstamatic-squared:before {
+.ada-deviantart-squared:before {
   content: "\e951";
 }
-.ada-hubbub-squared:before {
-  content: "\e952";
-}
-.ada-inside-the-hotel-squared:before {
+.ada-digg-squared:before {
   content: "\e953";
 }
-.ada-instagram-squared:before {
-  content: "\e954";
-}
-.ada-intellectconnect-squared:before {
+.ada-digg-logotype2-squared:before {
   content: "\e955";
 }
-.ada-iqyi-squared:before {
-  content: "\e956";
-}
-.ada-itsmy-squared:before {
+.ada-divoblogger-squared:before {
   content: "\e957";
 }
-.ada-itsmy-name-squared:before {
-  content: "\e958";
-}
-.ada-jiepang-squared:before {
+.ada-doodle-ly-squared:before {
   content: "\e959";
 }
-.ada-jux-squared:before {
-  content: "\e95a";
-}
-.ada-kaixin101-squared:before {
+.ada-douban-squared:before {
   content: "\e95b";
 }
-.ada-kiwibox-squared:before {
-  content: "\e95c";
+.ada-dribbble-squared:before {
+  content: "\ec0b";
 }
-.ada-ku6-squared:before {
+.ada-ebay-squared:before {
   content: "\e95d";
 }
-.ada-last-fm-squared:before {
-  content: "\e95e";
-}
-.ada-linkedin-squared:before {
+.ada-etsy-squared:before {
   content: "\e95f";
 }
-.ada-literatura-nova-squared:before {
-  content: "\e960";
-}
-.ada-meetic-squared:before {
+.ada-everloop-squared:before {
   content: "\e961";
 }
-.ada-meetme-squared:before {
-  content: "\e962";
-}
-.ada-meetup-squared:before {
+.ada-ex-fm-squared:before {
   content: "\e963";
 }
-.ada-meetyourfriends-squared:before {
-  content: "\e964";
-}
-.ada-meneame-squared:before {
+.ada-eyeem-squared:before {
   content: "\e965";
 }
-.ada-metacafe-squared:before {
-  content: "\e966";
-}
-.ada-mixi-squared:before {
+.ada-facebook-squared:before {
   content: "\e967";
 }
-.ada-mocospace-squared:before {
-  content: "\e968";
+.ada-fanlala-squared:before {
+  content: "\ec0d";
 }
-.ada-myfolio-squared:before {
+.ada-flickr-squared:before {
   content: "\e969";
 }
-.ada-my-heritage-squared:before {
-  content: "\e96a";
-}
-.ada-my-life-squared:before {
+.ada-flipkart-squared:before {
   content: "\e96b";
 }
-.ada-my-life-name-squared:before {
-  content: "\e96c";
-}
-.ada-my-space-squared:before {
+.ada-flixster-squared:before {
   content: "\e96d";
 }
-.ada-myspace-squared:before {
-  content: "\e96e";
-}
-.ada-ning-squared:before {
+.ada-fod-squared:before {
   content: "\e96f";
 }
-.ada-nk-squared:before {
-  content: "\e970";
-}
-.ada-notasweb-squared:before {
+.ada-fontli-squared:before {
   content: "\e971";
 }
-.ada-odnoklassniki-squared:before {
-  content: "\e972";
-}
-.ada-orkut-squared:before {
+.ada-fotki-squared:before {
   content: "\e973";
 }
-.ada-p1-squared:before {
-  content: "\e974";
+.ada-fotolog-squared:before {
+  content: "\ec0f";
 }
-.ada-panamo-squared:before {
+.ada-foursquare-squared:before {
   content: "\e975";
 }
-.ada-path-squared:before {
-  content: "\e976";
-}
-.ada-pengyu-squared:before {
+.ada-friendster-squared:before {
   content: "\e977";
 }
-.ada-pheed-squared:before {
-  content: "\e978";
-}
-.ada-pictify-squared:before {
+.ada-funny-or-die-squared:before {
   content: "\e979";
 }
-.ada-pinspire-squared:before {
-  content: "\e97a";
-}
-.ada-pinstagram-squared:before {
+.ada-gaiaonline-squared:before {
   content: "\e97b";
 }
-.ada-pinterest-squared:before {
-  content: "\e97c";
-}
-.ada-podio-squared:before {
+.ada-gather-squared:before {
   content: "\e97d";
 }
-.ada-qq-squared:before {
-  content: "\e97e";
-}
-.ada-questionity-squared:before {
+.ada-geni-squared:before {
   content: "\e97f";
 }
-.ada-qzone-squared:before {
-  content: "\e980";
+.ada-geonick-squared:before {
+  content: "\ec11";
 }
-.ada-ravelry-r-squared:before {
+.ada-glipho-squared:before {
   content: "\e981";
 }
-.ada-ravelry-squared:before {
-  content: "\e982";
-}
-.ada-redalyc-squared:before {
+.ada-glogster-squared:before {
   content: "\e983";
 }
-.ada-reddit-squared:before {
-  content: "\e984";
-}
-.ada-reddit-name-squared:before {
+.ada-g-plus-squared:before {
   content: "\e985";
 }
-.ada-rendezvous-squared:before {
-  content: "\e986";
-}
-.ada-renren-squared:before {
+.ada-grooveshark-squared:before {
   content: "\e987";
 }
-.ada-researchgate-squared:before {
-  content: "\e988";
-}
-.ada-reverbnation-squared:before {
+.ada-grou-ps-squared:before {
   content: "\e989";
 }
-.ada-ryze-name-squared:before {
-  content: "\e98a";
-}
-.ada-ryze-squared:before {
+.ada-habbo-squared:before {
   content: "\e98b";
 }
-.ada-scoopit-squared:before {
-  content: "\e98c";
+.ada-habbo-h-squared:before {
+  content: "\ec13";
 }
-.ada-scoop-it-squared:before {
+.ada-heello-squared:before {
   content: "\e98d";
 }
-.ada-scribd-squared:before {
-  content: "\e98e";
-}
-.ada-sina-squared:before {
+.ada-hexun-squared:before {
   content: "\e98f";
 }
-.ada-sinaeye-squared:before {
-  content: "\e990";
-}
-.ada-skyrock-squared:before {
+.ada-hi5-squared:before {
   content: "\e991";
 }
-.ada-slideshare-squared:before {
-  content: "\e992";
-}
-.ada-socialcam-squared:before {
+.ada-hipstamatic-squared:before {
   content: "\e993";
 }
-.ada-sonico-squared:before {
-  content: "\e994";
-}
-.ada-sonico-smile-squared:before {
+.ada-hubbub-squared:before {
   content: "\e995";
 }
-.ada-soundcloud-squared:before {
-  content: "\e996";
-}
-.ada-spotbros-squared:before {
+.ada-inside-the-hotel-squared:before {
   content: "\e997";
 }
-.ada-spotify-squared:before {
-  content: "\e998";
+.ada-instagram-squared:before {
+  content: "\ec15";
 }
-.ada-studivz-squared:before {
+.ada-intellectconnect-squared:before {
   content: "\e999";
 }
-.ada-stumbleupon-squared:before {
-  content: "\e99a";
-}
-.ada-symbaloo-squared:before {
+.ada-iqyi-squared:before {
   content: "\e99b";
 }
-.ada-tadaa-squared:before {
-  content: "\e99c";
-}
-.ada-tagged-squared:before {
+.ada-itsmy-squared:before {
   content: "\e99d";
 }
-.ada-tagworld-squared:before {
-  content: "\e99e";
-}
-.ada-taringa-squared:before {
+.ada-itsmy-name-squared:before {
   content: "\e99f";
 }
-.ada-telly-squared:before {
-  content: "\e9a0";
-}
-.ada-tencent-squared:before {
+.ada-jiepang-squared:before {
   content: "\e9a1";
 }
-.ada-threadless-squared:before {
-  content: "\e9a2";
-}
-.ada-tianji-squared:before {
+.ada-jux-squared:before {
   content: "\e9a3";
 }
-.ada-travbuddy-squared:before {
-  content: "\e9a4";
+.ada-kaixin101-squared:before {
+  content: "\ec17";
 }
-.ada-tribe-squared:before {
+.ada-kiwibox-squared:before {
   content: "\e9a5";
 }
-.ada-tripadvisor-squared:before {
-  content: "\e9a6";
-}
-.ada-tudou:before {
+.ada-ku6-squared:before {
   content: "\e9a7";
 }
-.ada-tuenti-squared:before {
-  content: "\e9a8";
-}
-.ada-tumblr-squared:before {
+.ada-last-fm-squared:before {
   content: "\e9a9";
 }
-.ada-tu-tv-squared:before {
-  content: "\e9aa";
-}
-.ada-tv-tag-squared:before {
+.ada-linkedin-squared:before {
   content: "\e9ab";
 }
-.ada-twitpic-squared:before {
-  content: "\e9ac";
-}
-.ada-twitter-t-squared:before {
+.ada-literatura-nova-squared:before {
   content: "\e9ad";
 }
-.ada-twitter-squared:before {
-  content: "\e9ae";
-}
-.ada-twoo-squared:before {
+.ada-meetic-squared:before {
   content: "\e9af";
 }
-.ada-typophile-squared:before {
-  content: "\e9b0";
+.ada-meetme-squared:before {
+  content: "\ec19";
 }
-.ada-ushi-squared:before {
+.ada-meetup-squared:before {
   content: "\e9b1";
 }
-.ada-vampirefreaks-squared:before {
-  content: "\e9b2";
-}
-.ada-viadeo-squared:before {
+.ada-meetyourfriends-squared:before {
   content: "\e9b3";
 }
-.ada-viddy-squared:before {
-  content: "\e9b4";
-}
-.ada-vimeo-squared:before {
+.ada-meneame-squared:before {
   content: "\e9b5";
 }
-.ada-vine-squared:before {
-  content: "\e9b6";
-}
-.ada-vine-v-squared:before {
+.ada-metacafe-squared:before {
   content: "\e9b7";
 }
-.ada-vk-squared:before {
-  content: "\e9b8";
-}
-.ada-wayn-squared:before {
+.ada-mixi-squared:before {
   content: "\e9b9";
 }
-.ada-weeworld-squared:before {
-  content: "\e9ba";
-}
-.ada-weheartit-squared:before {
+.ada-mocospace-squared:before {
   content: "\e9bb";
 }
-.ada-weibo-squared:before {
-  content: "\e9bc";
+.ada-myfolio-squared:before {
+  content: "\ec1b";
 }
-.ada-widbook-squared:before {
+.ada-my-heritage-squared:before {
   content: "\e9bd";
 }
-.ada-wikiloc-squared:before {
-  content: "\e9be";
-}
-.ada-wikipedia-w-squared:before {
-  content: "\e9bf";
-}
-.ada-wikipedia-squared:before {
+.ada-my-life-squared:before {
   content: "\e9c0";
 }
-.ada-wordpress-squared:before {
-  content: "\e9c1";
-}
-.ada-xanga-squared:before {
+.ada-my-life-name-squared:before {
   content: "\e9c2";
 }
-.ada-xanga-pusle-squared:before {
-  content: "\e9c3";
-}
-.ada-xiami-squared:before {
+.ada-my-space-squared:before {
   content: "\e9c4";
 }
-.ada-xing-squared:before {
-  content: "\e9c5";
-}
-.ada-yelp-squared:before {
+.ada-myspace-squared:before {
   content: "\e9c6";
 }
-.ada-youku-squared:before {
-  content: "\e9c7";
-}
-.ada-yoursphere-squared:before {
+.ada-ning-squared:before {
   content: "\e9c8";
 }
-.ada-youtube-squared:before {
-  content: "\e9c9";
+.ada-nk-squared:before {
+  content: "\ec1d";
 }
-.ada-youtube-icon-squared:before {
+.ada-notasweb-squared:before {
   content: "\e9ca";
 }
+.ada-odnoklassniki-squared:before {
+  content: "\eb66";
+}
+.ada-orkut-squared:before {
+  content: "\eb68";
+}
+.ada-p1-squared:before {
+  content: "\eb6a";
+}
+.ada-panamo-squared:before {
+  content: "\eb6c";
+}
+.ada-path-squared:before {
+  content: "\eb6e";
+}
+.ada-pengyu-squared:before {
+  content: "\ec1f";
+}
+.ada-pheed-squared:before {
+  content: "\eb70";
+}
+.ada-pictify-squared:before {
+  content: "\eb72";
+}
+.ada-pinspire-squared:before {
+  content: "\eb74";
+}
+.ada-pinstagram-squared:before {
+  content: "\eb76";
+}
+.ada-pinterest-squared:before {
+  content: "\eb78";
+}
+.ada-podio-squared:before {
+  content: "\eb7a";
+}
+.ada-qq-squared:before {
+  content: "\ec21";
+}
+.ada-questionity-squared:before {
+  content: "\eb7c";
+}
+.ada-qzone-squared:before {
+  content: "\eb7e";
+}
+.ada-ravelry-r-squared:before {
+  content: "\eb80";
+}
+.ada-ravelry-squared:before {
+  content: "\eb82";
+}
+.ada-redalyc-squared:before {
+  content: "\eb84";
+}
+.ada-reddit-squared:before {
+  content: "\eb86";
+}
+.ada-reddit-name-squared:before {
+  content: "\ec23";
+}
+.ada-rendezvous-squared:before {
+  content: "\eb88";
+}
+.ada-renren-squared:before {
+  content: "\eb8a";
+}
+.ada-researchgate-squared:before {
+  content: "\eb8c";
+}
+.ada-reverbnation-squared:before {
+  content: "\eb8e";
+}
+.ada-ryze-name-squared:before {
+  content: "\eb90";
+}
+.ada-ryze-squared:before {
+  content: "\eb92";
+}
+.ada-scoopit-squared:before {
+  content: "\ec25";
+}
+.ada-scoop-it-squared:before {
+  content: "\eb94";
+}
+.ada-scribd-squared:before {
+  content: "\eb96";
+}
+.ada-sina-squared:before {
+  content: "\eb98";
+}
+.ada-sinaeye-squared:before {
+  content: "\eb9a";
+}
+.ada-skyrock-squared:before {
+  content: "\eb9c";
+}
+.ada-slideshare-squared:before {
+  content: "\eb9e";
+}
+.ada-socialcam-squared:before {
+  content: "\ec27";
+}
+.ada-sonico-squared:before {
+  content: "\eba0";
+}
+.ada-sonico-smile-squared:before {
+  content: "\eba2";
+}
+.ada-soundcloud-squared:before {
+  content: "\eba4";
+}
+.ada-spotbros-squared:before {
+  content: "\eba6";
+}
+.ada-spotify-squared:before {
+  content: "\eba8";
+}
+.ada-studivz-squared:before {
+  content: "\ebaa";
+}
+.ada-stumbleupon-squared:before {
+  content: "\ec29";
+}
+.ada-symbaloo-squared:before {
+  content: "\ebac";
+}
+.ada-tadaa-squared:before {
+  content: "\ebae";
+}
+.ada-tagged-squared:before {
+  content: "\ebb0";
+}
+.ada-tagworld-squared:before {
+  content: "\ebb2";
+}
+.ada-taringa-squared:before {
+  content: "\ebb4";
+}
+.ada-telly-squared:before {
+  content: "\ebb6";
+}
+.ada-tencent-squared:before {
+  content: "\ec2b";
+}
+.ada-threadless-squared:before {
+  content: "\ebb8";
+}
+.ada-tianji-squared:before {
+  content: "\ebba";
+}
+.ada-travbuddy-squared:before {
+  content: "\ebbc";
+}
+.ada-tribe-squared:before {
+  content: "\ebbe";
+}
+.ada-tripadvisor-squared:before {
+  content: "\ebc0";
+}
+.ada-tudou:before {
+  content: "\ebc2";
+}
+.ada-tuenti-squared:before {
+  content: "\ec2d";
+}
+.ada-tumblr-squared:before {
+  content: "\ebc4";
+}
+.ada-tu-tv-squared:before {
+  content: "\ebc6";
+}
+.ada-tv-tag-squared:before {
+  content: "\ebc8";
+}
+.ada-twitpic-squared:before {
+  content: "\ebca";
+}
+.ada-twitter-t-squared:before {
+  content: "\ebcc";
+}
+.ada-twitter-squared:before {
+  content: "\ebce";
+}
+.ada-twoo-squared:before {
+  content: "\ec2f";
+}
+.ada-typophile-squared:before {
+  content: "\ebd0";
+}
+.ada-ushi-squared:before {
+  content: "\ebd2";
+}
+.ada-vampirefreaks-squared:before {
+  content: "\ebd4";
+}
+.ada-viadeo-squared:before {
+  content: "\ebd6";
+}
+.ada-viddy-squared:before {
+  content: "\ebd8";
+}
+.ada-vimeo-squared:before {
+  content: "\ebda";
+}
+.ada-vine-squared:before {
+  content: "\ec31";
+}
+.ada-vine-v-squared:before {
+  content: "\ebdc";
+}
+.ada-vk-squared:before {
+  content: "\ebde";
+}
+.ada-wayn-squared:before {
+  content: "\ebe0";
+}
+.ada-weeworld-squared:before {
+  content: "\ebe2";
+}
+.ada-weheartit-squared:before {
+  content: "\ebe4";
+}
+.ada-weibo-squared:before {
+  content: "\ebe6";
+}
+.ada-widbook-squared:before {
+  content: "\ec33";
+}
+.ada-wikiloc-squared:before {
+  content: "\ebe8";
+}
+.ada-wikipedia-w-squared:before {
+  content: "\ebea";
+}
+.ada-wikipedia-squared:before {
+  content: "\ebec";
+}
+.ada-wordpress-squared:before {
+  content: "\ebee";
+}
+.ada-xanga-squared:before {
+  content: "\ebf0";
+}
+.ada-xanga-pusle-squared:before {
+  content: "\ebf2";
+}
+.ada-xiami-squared:before {
+  content: "\ec35";
+}
+.ada-xing-squared:before {
+  content: "\ebf4";
+}
+.ada-yelp-squared:before {
+  content: "\ebf6";
+}
+.ada-youku-squared:before {
+  content: "\ebf8";
+}
+.ada-yoursphere-squared:before {
+  content: "\ebfa";
+}
+.ada-youtube-squared:before {
+  content: "\ebfc";
+}
+.ada-youtube-icon-squared:before {
+  content: "\ebfe";
+}
 .ada-yupoo-squared:before {
-  content: "\e9cb";
+  content: "\ec37";
 }
 .ada-zorpia-squared:before {
   content: "\e9cc";
@@ -2503,4 +2503,1918 @@ i, .icomoon-liga {
 }
 .ada-zorpia:before {
   content: "\eb65";
+}
+.ada-d-pie-graphic-without-quarter-part-outline-symbol:before {
+  content: "\e900";
+}
+.ada-abacus:before {
+  content: "\e90e";
+}
+.ada-abacus-1:before {
+  content: "\ec00";
+}
+.ada-alert:before {
+  content: "\ec02";
+}
+.ada-alert-sign:before {
+  content: "\ec04";
+}
+.ada-alert-symbol:before {
+  content: "\ec06";
+}
+.ada-alien-black-head-shape:before {
+  content: "\ec08";
+}
+.ada-alien-creature:before {
+  content: "\ec0a";
+}
+.ada-answer:before {
+  content: "\ec0c";
+}
+.ada-antenna-for-signal-reception:before {
+  content: "\ec0e";
+}
+.ada-antennas:before {
+  content: "\ec10";
+}
+.ada-arrows-triangle:before {
+  content: "\ec12";
+}
+.ada-art-and-design:before {
+  content: "\ec14";
+}
+.ada-atom:before {
+  content: "\ec16";
+}
+.ada-atom-1:before {
+  content: "\ec18";
+}
+.ada-atom-circular-symbol-of-circles:before {
+  content: "\ec1a";
+}
+.ada-atoms:before {
+  content: "\e910";
+}
+.ada-atom-science-bottle:before {
+  content: "\e911";
+}
+.ada-atom-symbol-in-man-head:before {
+  content: "\e912";
+}
+.ada-backpack:before {
+  content: "\e913";
+}
+.ada-bacteria:before {
+  content: "\e914";
+}
+.ada-bald-male-head-side-view-with-letters-inside:before {
+  content: "\e915";
+}
+.ada-binary-code-numbers-on-monitor-screen:before {
+  content: "\e916";
+}
+.ada-black-hole:before {
+  content: "\e917";
+}
+.ada-black-portfolio:before {
+  content: "\e918";
+}
+.ada-book:before {
+  content: "\e919";
+}
+.ada-book-1:before {
+  content: "\e91a";
+}
+.ada-book-2:before {
+  content: "\e91b";
+}
+.ada-book-opened-symbol:before {
+  content: "\e91c";
+}
+.ada-books:before {
+  content: "\e91d";
+}
+.ada-books-1:before {
+  content: "\e91e";
+}
+.ada-bookshelf:before {
+  content: "\e91f";
+}
+.ada-books-stack-from-top-view:before {
+  content: "\ebe3";
+}
+.ada-bowl:before {
+  content: "\e921";
+}
+.ada-brain:before {
+  content: "\e922";
+}
+.ada-browser:before {
+  content: "\e923";
+}
+.ada-calculator:before {
+  content: "\e924";
+}
+.ada-calendar:before {
+  content: "\e926";
+}
+.ada-cell:before {
+  content: "\e928";
+}
+.ada-cell-analysis:before {
+  content: "\e92a";
+}
+.ada-certificate:before {
+  content: "\e92c";
+}
+.ada-chemical-utensils:before {
+  content: "\e92e";
+}
+.ada-chemistry-bottle-with-liquid:before {
+  content: "\e930";
+}
+.ada-chimney:before {
+  content: "\e932";
+}
+.ada-comet:before {
+  content: "\e934";
+}
+.ada-computer:before {
+  content: "\e936";
+}
+.ada-computer-1:before {
+  content: "\e938";
+}
+.ada-computer-2:before {
+  content: "\e93a";
+}
+.ada-computer-analysis:before {
+  content: "\ebe5";
+}
+.ada-container-outline-of-irregular-shape:before {
+  content: "\e93c";
+}
+.ada-dangerous-liquid-container:before {
+  content: "\e93e";
+}
+.ada-dangerous-substance:before {
+  content: "\e940";
+}
+.ada-danger-triangular-symbol-with-bolt-sign-inside:before {
+  content: "\e942";
+}
+.ada-death-in-a-bottle:before {
+  content: "\e944";
+}
+.ada-death-skull-and-bones:before {
+  content: "\e946";
+}
+.ada-drawing-compass-tool:before {
+  content: "\e948";
+}
+.ada-drug-injection:before {
+  content: "\e94a";
+}
+.ada-earth-globe:before {
+  content: "\e94c";
+}
+.ada-earth-globe-for-school:before {
+  content: "\e94e";
+}
+.ada-earth-globe-tool:before {
+  content: "\e950";
+}
+.ada-eclipse:before {
+  content: "\e952";
+}
+.ada-elegant-antique-building-shape-with-columns:before {
+  content: "\e954";
+}
+.ada-elevator:before {
+  content: "\e956";
+}
+.ada-exam:before {
+  content: "\e958";
+}
+.ada-exam-1:before {
+  content: "\ebe7";
+}
+.ada-experimentation-flask-tool:before {
+  content: "\e95a";
+}
+.ada-expert:before {
+  content: "\e95c";
+}
+.ada-eye-black-shape:before {
+  content: "\e95e";
+}
+.ada-eyedropper:before {
+  content: "\e960";
+}
+.ada-eyedropper-tool:before {
+  content: "\e962";
+}
+.ada-female-science-expert-with-eyeglasses:before {
+  content: "\e964";
+}
+.ada-fire-flame:before {
+  content: "\e966";
+}
+.ada-flag-outline-on-a-pole-with-stars-around:before {
+  content: "\e968";
+}
+.ada-flask:before {
+  content: "\e96a";
+}
+.ada-flask-1:before {
+  content: "\e96c";
+}
+.ada-flask-2:before {
+  content: "\e96e";
+}
+.ada-flask-container-outline:before {
+  content: "\e970";
+}
+.ada-flasks-couple:before {
+  content: "\e972";
+}
+.ada-flasks-couple-of-different-shapes-with-liquids-inside:before {
+  content: "\e974";
+}
+.ada-flask-with-liquid:before {
+  content: "\e976";
+}
+.ada-flask-with-liquid-and-a-dropper:before {
+  content: "\ebe9";
+}
+.ada-fountain-pen:before {
+  content: "\e978";
+}
+.ada-funnel-outline:before {
+  content: "\e97a";
+}
+.ada-fused-liquids-falling-drop-from-a-bottle:before {
+  content: "\e97c";
+}
+.ada-globe-grid:before {
+  content: "\e97e";
+}
+.ada-graduation:before {
+  content: "\e980";
+}
+.ada-graduation-student-black-cap:before {
+  content: "\e982";
+}
+.ada-graphic-of-line-with-ups-and-downs:before {
+  content: "\e984";
+}
+.ada-hand-and-drop:before {
+  content: "\e986";
+}
+.ada-heating-a-flask-with-testing-liquid-on-fire-flames:before {
+  content: "\e988";
+}
+.ada-hexagons:before {
+  content: "\e98a";
+}
+.ada-injection:before {
+  content: "\e98c";
+}
+.ada-labyrinth:before {
+  content: "\e98e";
+}
+.ada-lamp-light-bulb-outline:before {
+  content: "\e990";
+}
+.ada-laptop-with-energy-mass-equivalence-formula-on-screen:before {
+  content: "\e992";
+}
+.ada-laptop-with-numbers-on-screen:before {
+  content: "\e994";
+}
+.ada-learning:before {
+  content: "\ebeb";
+}
+.ada-load-bar:before {
+  content: "\e996";
+}
+.ada-magnet:before {
+  content: "\e998";
+}
+.ada-magnet-tool:before {
+  content: "\e99a";
+}
+.ada-magnet-with-positive-and-negative-poles:before {
+  content: "\e99c";
+}
+.ada-male-brain:before {
+  content: "\e99e";
+}
+.ada-male-head-shape-of-small-squares:before {
+  content: "\e9a0";
+}
+.ada-man-black-bald-head-shape-from-side-view:before {
+  content: "\e9a2";
+}
+.ada-man-temperature:before {
+  content: "\e9a4";
+}
+.ada-mass-energy-equivalence:before {
+  content: "\e9a6";
+}
+.ada-mathematics:before {
+  content: "\e9a8";
+}
+.ada-measuring-and-drawing-tools:before {
+  content: "\e9aa";
+}
+.ada-microscope:before {
+  content: "\e9ac";
+}
+.ada-microscope-scientific-tool-side-view:before {
+  content: "\e9ae";
+}
+.ada-microscope-scientific-tool-side-view-1:before {
+  content: "\e9b0";
+}
+.ada-microscope-side-view:before {
+  content: "\e9b2";
+}
+.ada-milky-way-constellation-stars-shape:before {
+  content: "\ebed";
+}
+.ada-molecule:before {
+  content: "\e9b4";
+}
+.ada-molecule-1:before {
+  content: "\e9b6";
+}
+.ada-molecule-2:before {
+  content: "\e9b8";
+}
+.ada-molecule-3:before {
+  content: "\e9ba";
+}
+.ada-molecule-cube-shape:before {
+  content: "\e9bc";
+}
+.ada-molecule-hexagonal-shapes:before {
+  content: "\e9be";
+}
+.ada-molecule-science-symbol:before {
+  content: "\e9c1";
+}
+.ada-molecules-hexagonal-shapes:before {
+  content: "\e9c3";
+}
+.ada-moons:before {
+  content: "\e9c5";
+}
+.ada-mouse-black-animal:before {
+  content: "\e9c7";
+}
+.ada-night-moon-and-star-shapes:before {
+  content: "\e9c9";
+}
+.ada-night-sky:before {
+  content: "\e9cb";
+}
+.ada-note:before {
+  content: "\eb67";
+}
+.ada-notebook:before {
+  content: "\eb69";
+}
+.ada-notebook-1:before {
+  content: "\eb6b";
+}
+.ada-notebook-2:before {
+  content: "\ebef";
+}
+.ada-notebook-of-black-cover:before {
+  content: "\eb6d";
+}
+.ada-orbit:before {
+  content: "\eb6f";
+}
+.ada-orbit-network-symbol:before {
+  content: "\eb71";
+}
+.ada-panel:before {
+  content: "\eb73";
+}
+.ada-parabolic-antenna:before {
+  content: "\eb75";
+}
+.ada-pen:before {
+  content: "\eb77";
+}
+.ada-pencil:before {
+  content: "\eb79";
+}
+.ada-pencil-box:before {
+  content: "\eb7b";
+}
+.ada-pencil-box-1:before {
+  content: "\eb7d";
+}
+.ada-planet-shape-with-a-ring-around:before {
+  content: "\eb7f";
+}
+.ada-plant-leaves:before {
+  content: "\eb81";
+}
+.ada-plant-with-leaves:before {
+  content: "\eb83";
+}
+.ada-presentation:before {
+  content: "\eb85";
+}
+.ada-projector:before {
+  content: "\eb87";
+}
+.ada-protection-mask:before {
+  content: "\eb89";
+}
+.ada-puzzle-piece-symbol-inside-of-bald-man-head:before {
+  content: "\ebf1";
+}
+.ada-question:before {
+  content: "\eb8b";
+}
+.ada-question-sign-in-bald-head:before {
+  content: "\eb8d";
+}
+.ada-rectangular-eyeglasses:before {
+  content: "\eb8f";
+}
+.ada-robot:before {
+  content: "\eb91";
+}
+.ada-rocket:before {
+  content: "\eb93";
+}
+.ada-rocket-ship:before {
+  content: "\eb95";
+}
+.ada-rocket-space-ship:before {
+  content: "\eb97";
+}
+.ada-rocket-space-ship-1:before {
+  content: "\eb99";
+}
+.ada-ruler:before {
+  content: "\eb9b";
+}
+.ada-satellite:before {
+  content: "\eb9d";
+}
+.ada-school-bus:before {
+  content: "\eb9f";
+}
+.ada-science-experiment:before {
+  content: "\eba1";
+}
+.ada-science-graphic-on-a-note:before {
+  content: "\eba3";
+}
+.ada-science-symbol-of-dna-with-a-magnifier-tool-with-a-question-sign:before {
+  content: "\eba5";
+}
+.ada-science-text:before {
+  content: "\eba7";
+}
+.ada-scientific-test-tubes-with-liquids:before {
+  content: "\ebf3";
+}
+.ada-settings-three-gears-interface-symbol:before {
+  content: "\eba9";
+}
+.ada-shooting-stars:before {
+  content: "\ebab";
+}
+.ada-shooting-star-shape:before {
+  content: "\ebad";
+}
+.ada-smartphone:before {
+  content: "\ebaf";
+}
+.ada-solar-panel:before {
+  content: "\ebb1";
+}
+.ada-space-ship:before {
+  content: "\ebb3";
+}
+.ada-space-ship-1:before {
+  content: "\ebb5";
+}
+.ada-space-ship-2:before {
+  content: "\ebb7";
+}
+.ada-space-vehicle:before {
+  content: "\ebb9";
+}
+.ada-star-black-shape-in-a-circle-outline-favourite-interface-symbol:before {
+  content: "\ebbb";
+}
+.ada-statistics-bars-graphic-hanging-of-a-nail:before {
+  content: "\ebbd";
+}
+.ada-sun-black-shape-of-a-circle-with-triangles:before {
+  content: "\ebbf";
+}
+.ada-tablet:before {
+  content: "\ebc1";
+}
+.ada-tablet-1:before {
+  content: "\ebc3";
+}
+.ada-telescope:before {
+  content: "\ebc5";
+}
+.ada-telescope-1:before {
+  content: "\ebf5";
+}
+.ada-terminal:before {
+  content: "\ebc7";
+}
+.ada-test:before {
+  content: "\ebc9";
+}
+.ada-test-1:before {
+  content: "\ebcb";
+}
+.ada-testing-tube:before {
+  content: "\ebcd";
+}
+.ada-test-tube:before {
+  content: "\ebcf";
+}
+.ada-test-tube-outline:before {
+  content: "\ebd1";
+}
+.ada-test-tubes:before {
+  content: "\ebd3";
+}
+.ada-test-tubes-couple:before {
+  content: "\ebd5";
+}
+.ada-test-tube-tool:before {
+  content: "\ebd7";
+}
+.ada-text-lines-on-paper:before {
+  content: "\ebd9";
+}
+.ada-thermometer:before {
+  content: "\ebdb";
+}
+.ada-thinking:before {
+  content: "\ebdd";
+}
+.ada-two-glass-bottles-with-liquid:before {
+  content: "\ebdf";
+}
+.ada-universe-shapes:before {
+  content: "\ebe1";
+}
+.ada-verified-list-interface-symbol:before {
+  content: "\e9bf";
+}
+.ada-video-player:before {
+  content: "\ebf7";
+}
+.ada-white-flag-symbol-on-a-pole:before {
+  content: "\ebf9";
+}
+.ada-zoom:before {
+  content: "\ebfb";
+}
+.ada-zoom-interface-symbol-variant:before {
+  content: "\ebfd";
+}
+.ada-abacus1:before {
+  content: "\ec1c";
+}
+.ada-activities:before {
+  content: "\ec1e";
+}
+.ada-alarm-clock:before {
+  content: "\ec20";
+}
+.ada-alphabet:before {
+  content: "\ec22";
+}
+.ada-artist:before {
+  content: "\ec24";
+}
+.ada-audiobook:before {
+  content: "\ec26";
+}
+.ada-backpack1:before {
+  content: "\ec28";
+}
+.ada-bell:before {
+  content: "\ec2a";
+}
+.ada-biology:before {
+  content: "\ec2c";
+}
+.ada-book1:before {
+  content: "\ec2e";
+}
+.ada-book-11:before {
+  content: "\ec30";
+}
+.ada-bookshelf1:before {
+  content: "\ec32";
+}
+.ada-brainstorming:before {
+  content: "\ec34";
+}
+.ada-calendar1:before {
+  content: "\ec36";
+}
+.ada-chat:before {
+  content: "\ec38";
+}
+.ada-chemistry:before {
+  content: "\ec39";
+}
+.ada-chemistry-1:before {
+  content: "\ec3b";
+}
+.ada-clipboard:before {
+  content: "\ec3d";
+}
+.ada-compass:before {
+  content: "\ec3f";
+}
+.ada-cubes:before {
+  content: "\ec41";
+}
+.ada-diploma:before {
+  content: "\ec43";
+}
+.ada-diploma-1:before {
+  content: "\ec45";
+}
+.ada-dna:before {
+  content: "\ec47";
+}
+.ada-earth-globe1:before {
+  content: "\ec49";
+}
+.ada-ebook:before {
+  content: "\ec4c";
+}
+.ada-education:before {
+  content: "\ec4e";
+}
+.ada-essay:before {
+  content: "\ec50";
+}
+.ada-exam1:before {
+  content: "\ec52";
+}
+.ada-flask1:before {
+  content: "\ec54";
+}
+.ada-flask-11:before {
+  content: "\ec56";
+}
+.ada-flask-21:before {
+  content: "\ec58";
+}
+.ada-international:before {
+  content: "\ec5a";
+}
+.ada-laptop:before {
+  content: "\ec5c";
+}
+.ada-laptop-1:before {
+  content: "\ec5e";
+}
+.ada-line-chart:before {
+  content: "\ec60";
+}
+.ada-medal:before {
+  content: "\ec62";
+}
+.ada-microphone:before {
+  content: "\ec64";
+}
+.ada-microscope1:before {
+  content: "\ec66";
+}
+.ada-mind:before {
+  content: "\ec68";
+}
+.ada-mortarboard:before {
+  content: "\ec6a";
+}
+.ada-notepad:before {
+  content: "\ec6c";
+}
+.ada-online-education:before {
+  content: "\ec6e";
+}
+.ada-open-book:before {
+  content: "\ec70";
+}
+.ada-open-book-1:before {
+  content: "\ec72";
+}
+.ada-open-book-2:before {
+  content: "\ec74";
+}
+.ada-open-book-3:before {
+  content: "\ec76";
+}
+.ada-open-book-4:before {
+  content: "\ec78";
+}
+.ada-open-book-5:before {
+  content: "\ec7a";
+}
+.ada-open-book-6:before {
+  content: "\ec7c";
+}
+.ada-open-book-7:before {
+  content: "\ec7e";
+}
+.ada-owl:before {
+  content: "\ec80";
+}
+.ada-painter:before {
+  content: "\ec82";
+}
+.ada-pen1:before {
+  content: "\ec84";
+}
+.ada-pen-1:before {
+  content: "\ec86";
+}
+.ada-pen-2:before {
+  content: "\ec88";
+}
+.ada-pencil1:before {
+  content: "\ec8a";
+}
+.ada-pencil-1:before {
+  content: "\ec8c";
+}
+.ada-pencil-2:before {
+  content: "\ec8e";
+}
+.ada-pencil-case:before {
+  content: "\ec90";
+}
+.ada-presentation1:before {
+  content: "\ec92";
+}
+.ada-presentation-1:before {
+  content: "\ec94";
+}
+.ada-professor1:before {
+  content: "\ec95";
+}
+.ada-protractor:before {
+  content: "\ec97";
+}
+.ada-quill:before {
+  content: "\ec98";
+}
+.ada-quill-1:before {
+  content: "\ec99";
+}
+.ada-reading:before {
+  content: "\ec9b";
+}
+.ada-ruler1:before {
+  content: "\ec9c";
+}
+.ada-ruler-1:before {
+  content: "\ec9e";
+}
+.ada-scholarship:before {
+  content: "\eca0";
+}
+.ada-school:before {
+  content: "\eca1";
+}
+.ada-school-bell:before {
+  content: "\eca2";
+}
+.ada-science:before {
+  content: "\eca3";
+}
+.ada-set-square:before {
+  content: "\eca5";
+}
+.ada-stationery:before {
+  content: "\eca6";
+}
+.ada-student:before {
+  content: "\eca7";
+}
+.ada-success:before {
+  content: "\eca9";
+}
+.ada-test1:before {
+  content: "\ecab";
+}
+.ada-thinking1:before {
+  content: "\ecad";
+}
+.ada-trophies:before {
+  content: "\ecaf";
+}
+.ada-vector:before {
+  content: "\ecb1";
+}
+.ada-video-player1:before {
+  content: "\ecb3";
+}
+.ada-writing:before {
+  content: "\ecb2";
+}
+.ada-apple:before {
+  content: "\ecb5";
+}
+.ada-bag:before {
+  content: "\ecb6";
+}
+.ada-bathtub:before {
+  content: "\ecb8";
+}
+.ada-bicycle:before {
+  content: "\ecb9";
+}
+.ada-bio:before {
+  content: "\ecba";
+}
+.ada-biomass:before {
+  content: "\ecbb";
+}
+.ada-bolt:before {
+  content: "\ecbd";
+}
+.ada-bottles:before {
+  content: "\ecbf";
+}
+.ada-butterfly:before {
+  content: "\ecc1";
+}
+.ada-cloudy:before {
+  content: "\ecc3";
+}
+.ada-co2:before {
+  content: "\ecc5";
+}
+.ada-container:before {
+  content: "\ecc7";
+}
+.ada-drop:before {
+  content: "\ecc9";
+}
+.ada-drought:before {
+  content: "\eccb";
+}
+.ada-eco:before {
+  content: "\ed1f";
+}
+.ada-electric-car:before {
+  content: "\ed21";
+}
+.ada-eolic-energy:before {
+  content: "\eccd";
+}
+.ada-factory:before {
+  content: "\eccf";
+}
+.ada-factory-1:before {
+  content: "\ecd1";
+}
+.ada-faucet:before {
+  content: "\ecd3";
+}
+.ada-flower:before {
+  content: "\ecd4";
+}
+.ada-footprint:before {
+  content: "\ecd5";
+}
+.ada-garbage:before {
+  content: "\ecd7";
+}
+.ada-gas-station:before {
+  content: "\ecd9";
+}
+.ada-geothermal-energy:before {
+  content: "\ecdb";
+}
+.ada-global-warming:before {
+  content: "\ecdd";
+}
+.ada-house:before {
+  content: "\ecde";
+}
+.ada-hydraulic-energy:before {
+  content: "\ecdf";
+}
+.ada-irrigation:before {
+  content: "\ece1";
+}
+.ada-leaf:before {
+  content: "\ece3";
+}
+.ada-lightbulb:before {
+  content: "\ed22";
+}
+.ada-light-bulb:before {
+  content: "\ed24";
+}
+.ada-mountains:before {
+  content: "\ece5";
+}
+.ada-nuclear-plant:before {
+  content: "\ece7";
+}
+.ada-ozone-layer:before {
+  content: "\ece9";
+}
+.ada-package:before {
+  content: "\eceb";
+}
+.ada-penguin:before {
+  content: "\eced";
+}
+.ada-planet-earth:before {
+  content: "\ecef";
+}
+.ada-plants:before {
+  content: "\ecf1";
+}
+.ada-radiation:before {
+  content: "\ecf3";
+}
+.ada-rain:before {
+  content: "\ecf5";
+}
+.ada-raindrops:before {
+  content: "\ecf7";
+}
+.ada-recycled-bag:before {
+  content: "\ecf9";
+}
+.ada-recycled-paper:before {
+  content: "\ecfb";
+}
+.ada-recycling:before {
+  content: "\ecfd";
+}
+.ada-renewable:before {
+  content: "\ecff";
+}
+.ada-sea:before {
+  content: "\ed26";
+}
+.ada-solar-panel1:before {
+  content: "\ed1d";
+}
+.ada-solar-panel-1:before {
+  content: "\ed01";
+}
+.ada-sprout:before {
+  content: "\ed03";
+}
+.ada-sun:before {
+  content: "\ed05";
+}
+.ada-thaw:before {
+  content: "\ed07";
+}
+.ada-tree:before {
+  content: "\ed09";
+}
+.ada-trees:before {
+  content: "\ed0b";
+}
+.ada-truck:before {
+  content: "\ed0d";
+}
+.ada-whale:before {
+  content: "\ed0f";
+}
+.ada-wind:before {
+  content: "\ed11";
+}
+.ada-windmill:before {
+  content: "\ed13";
+}
+.ada-wind-turbine:before {
+  content: "\ed15";
+}
+.ada-world:before {
+  content: "\ed17";
+}
+.ada-worldwide:before {
+  content: "\ed19";
+}
+.ada-worldwide-1:before {
+  content: "\ed1b";
+}
+.ada-apple1:before {
+  content: "\ed28";
+}
+.ada-apple-1:before {
+  content: "\ed2a";
+}
+.ada-apple-and-grapes-on-a-bowl:before {
+  content: "\ed2c";
+}
+.ada-apple-cut-in-half-with-visible-seeds:before {
+  content: "\ed2e";
+}
+.ada-apple-jam:before {
+  content: "\ed30";
+}
+.ada-apple-with-stem-and-leaf:before {
+  content: "\ed32";
+}
+.ada-avocado:before {
+  content: "\ed34";
+}
+.ada-barbacue-utensils:before {
+  content: "\ed36";
+}
+.ada-barbecue:before {
+  content: "\ed38";
+}
+.ada-barbecue-grill:before {
+  content: "\ed3a";
+}
+.ada-beer:before {
+  content: "\ed3c";
+}
+.ada-beer-in-glass-and-bottle:before {
+  content: "\ed3e";
+}
+.ada-beer-pint:before {
+  content: "\ed40";
+}
+.ada-birthday-cake:before {
+  content: "\ed42";
+}
+.ada-birthday-cake-1:before {
+  content: "\ed44";
+}
+.ada-birthday-cake-2:before {
+  content: "\ed46";
+}
+.ada-birthday-cake-3:before {
+  content: "\ed48";
+}
+.ada-blender:before {
+  content: "\ed4a";
+}
+.ada-boiled-egg:before {
+  content: "\ed4c";
+}
+.ada-bone:before {
+  content: "\ed4e";
+}
+.ada-bottle:before {
+  content: "\ed50";
+}
+.ada-bowl-of-hot-soup-on-a-plate:before {
+  content: "\ed52";
+}
+.ada-bread:before {
+  content: "\ed54";
+}
+.ada-bread-1:before {
+  content: "\ed56";
+}
+.ada-brochette:before {
+  content: "\ed58";
+}
+.ada-brochette-1:before {
+  content: "\ed5a";
+}
+.ada-brochette-2:before {
+  content: "\ed5c";
+}
+.ada-brochette-3:before {
+  content: "\ed5e";
+}
+.ada-burger-and-soda-with-straw:before {
+  content: "\ed60";
+}
+.ada-cabbage:before {
+  content: "\ed62";
+}
+.ada-cake:before {
+  content: "\ed64";
+}
+.ada-cake-slice:before {
+  content: "\ed66";
+}
+.ada-cake-slice-1:before {
+  content: "\ed68";
+}
+.ada-candy:before {
+  content: "\ed6a";
+}
+.ada-candy-1:before {
+  content: "\ed6c";
+}
+.ada-candy-2:before {
+  content: "\ed6e";
+}
+.ada-carrot:before {
+  content: "\ed70";
+}
+.ada-champagne:before {
+  content: "\ed72";
+}
+.ada-champagne-1:before {
+  content: "\ed74";
+}
+.ada-champagne-2:before {
+  content: "\ed76";
+}
+.ada-champagne-3:before {
+  content: "\ed78";
+}
+.ada-champagne-4:before {
+  content: "\ed7a";
+}
+.ada-champagne-5:before {
+  content: "\ed7c";
+}
+.ada-champagne-glass:before {
+  content: "\ed7e";
+}
+.ada-cheers:before {
+  content: "\ed80";
+}
+.ada-cheese:before {
+  content: "\ed82";
+}
+.ada-cheese-with-little-cutted-triangular-piece:before {
+  content: "\ed84";
+}
+.ada-chef1:before {
+  content: "\ed86";
+}
+.ada-chef-hat:before {
+  content: "\ed88";
+}
+.ada-chef-with-hat:before {
+  content: "\ed8a";
+}
+.ada-cherries:before {
+  content: "\ed8c";
+}
+.ada-cherries-1:before {
+  content: "\ed8e";
+}
+.ada-cherries-with-stem:before {
+  content: "\ed90";
+}
+.ada-chicken-leg:before {
+  content: "\ed92";
+}
+.ada-chicken-leg-1:before {
+  content: "\ed94";
+}
+.ada-chocolate:before {
+  content: "\ed96";
+}
+.ada-chocolate-donut-with-sprinkles:before {
+  content: "\ed98";
+}
+.ada-cocktail:before {
+  content: "\ed9a";
+}
+.ada-cocktail-drink-with-stirrer:before {
+  content: "\ed9c";
+}
+.ada-coffee-beans:before {
+  content: "\ed9e";
+}
+.ada-coffee-cup:before {
+  content: "\eda0";
+}
+.ada-coffee-cup-1:before {
+  content: "\eda2";
+}
+.ada-coffee-cup-2:before {
+  content: "\eda4";
+}
+.ada-coffee-cup-3:before {
+  content: "\eda6";
+}
+.ada-coffee-grinder:before {
+  content: "\eda8";
+}
+.ada-coffee-jar:before {
+  content: "\edaa";
+}
+.ada-coffee-jar-and-filter:before {
+  content: "\edac";
+}
+.ada-coffee-machine:before {
+  content: "\edae";
+}
+.ada-coffee-maker-machine:before {
+  content: "\edb0";
+}
+.ada-cookie:before {
+  content: "\edb2";
+}
+.ada-cookie-1:before {
+  content: "\edb4";
+}
+.ada-cookie-2:before {
+  content: "\edb6";
+}
+.ada-cooking-food-in-a-hot-casserole:before {
+  content: "\edb8";
+}
+.ada-corn-with-leaves:before {
+  content: "\edba";
+}
+.ada-croissant:before {
+  content: "\edbc";
+}
+.ada-cucumber:before {
+  content: "\edbe";
+}
+.ada-cucumber-1:before {
+  content: "\edc0";
+}
+.ada-cucumber-cut-in-half:before {
+  content: "\edc2";
+}
+.ada-cupcake:before {
+  content: "\edc4";
+}
+.ada-cupcake-1:before {
+  content: "\edc6";
+}
+.ada-cupcake-dessert:before {
+  content: "\edc8";
+}
+.ada-cutlery:before {
+  content: "\edca";
+}
+.ada-dining-meal-covered:before {
+  content: "\edcc";
+}
+.ada-dish-cover:before {
+  content: "\edce";
+}
+.ada-doughnut:before {
+  content: "\edd0";
+}
+.ada-doughnut-1:before {
+  content: "\edd2";
+}
+.ada-doughnut-2:before {
+  content: "\edd4";
+}
+.ada-doughnut-3:before {
+  content: "\edd6";
+}
+.ada-doughnut-4:before {
+  content: "\edd8";
+}
+.ada-doughnut-5:before {
+  content: "\edda";
+}
+.ada-doughnut-6:before {
+  content: "\eddc";
+}
+.ada-doughnut-7:before {
+  content: "\edde";
+}
+.ada-easter-egg:before {
+  content: "\ede0";
+}
+.ada-egg:before {
+  content: "\ede2";
+}
+.ada-eggplant:before {
+  content: "\ede4";
+}
+.ada-eggplant-rotated-to-left:before {
+  content: "\ede6";
+}
+.ada-eggs:before {
+  content: "\ede8";
+}
+.ada-eggs-1:before {
+  content: "\edea";
+}
+.ada-eggs-2:before {
+  content: "\edec";
+}
+.ada-fast-food:before {
+  content: "\edee";
+}
+.ada-faucet1:before {
+  content: "\edef";
+}
+.ada-feeder:before {
+  content: "\edf0";
+}
+.ada-feeder-1:before {
+  content: "\edf1";
+}
+.ada-feeder-2:before {
+  content: "\edf2";
+}
+.ada-fire-flames:before {
+  content: "\edf3";
+}
+.ada-fish-tail-bone:before {
+  content: "\edf4";
+}
+.ada-flour:before {
+  content: "\edf5";
+}
+.ada-food-observation:before {
+  content: "\edf6";
+}
+.ada-food-on-a-stick:before {
+  content: "\edf7";
+}
+.ada-french-fries:before {
+  content: "\edf8";
+}
+.ada-french-fries-on-container:before {
+  content: "\edf9";
+}
+.ada-fresh-carrot:before {
+  content: "\edfa";
+}
+.ada-fridge:before {
+  content: "\edfb";
+}
+.ada-fried-chicken-leg-on-a-plate:before {
+  content: "\edfc";
+}
+.ada-fried-egg:before {
+  content: "\edfd";
+}
+.ada-garlic:before {
+  content: "\edfe";
+}
+.ada-giant-pumpkin:before {
+  content: "\edff";
+}
+.ada-glass-of-wine-and-bottle:before {
+  content: "\ee00";
+}
+.ada-grapefruit:before {
+  content: "\ee01";
+}
+.ada-grapefruit-1:before {
+  content: "\ee02";
+}
+.ada-grapes-and-pear-on-a-platter:before {
+  content: "\ee03";
+}
+.ada-grapes-with-leaf-and-stem:before {
+  content: "\ee04";
+}
+.ada-grill:before {
+  content: "\ee05";
+}
+.ada-grill-1:before {
+  content: "\ee06";
+}
+.ada-groceries:before {
+  content: "\ee07";
+}
+.ada-half-avocado:before {
+  content: "\ee08";
+}
+.ada-half-lemon:before {
+  content: "\ee09";
+}
+.ada-hamburger:before {
+  content: "\ee0a";
+}
+.ada-hamburger-1:before {
+  content: "\ee0b";
+}
+.ada-hamburger-2:before {
+  content: "\ee0c";
+}
+.ada-hamburger-3:before {
+  content: "\ee0d";
+}
+.ada-hamburger-with-sesame-seeds:before {
+  content: "\ee0e";
+}
+.ada-heating-pad:before {
+  content: "\ee0f";
+}
+.ada-horizontal-lemon:before {
+  content: "\ee10";
+}
+.ada-hot-bread-with-smoke:before {
+  content: "\ee11";
+}
+.ada-hot-coffee-on-a-tall-paper-cup:before {
+  content: "\ee12";
+}
+.ada-hot-dog:before {
+  content: "\ee13";
+}
+.ada-hot-dogs-package:before {
+  content: "\ee14";
+}
+.ada-hot-dog-with-sauce-and-bread:before {
+  content: "\ee15";
+}
+.ada-hot-drink:before {
+  content: "\ee16";
+}
+.ada-hot-drink-on-a-cup-button:before {
+  content: "\ee17";
+}
+.ada-hot-fish:before {
+  content: "\ee18";
+}
+.ada-hot-fish-bone:before {
+  content: "\ee19";
+}
+.ada-hot-kitchen-pot:before {
+  content: "\ee1a";
+}
+.ada-hot-meal-sign:before {
+  content: "\ee1b";
+}
+.ada-hot-pepper:before {
+  content: "\ee1c";
+}
+.ada-hot-pot:before {
+  content: "\ee1d";
+}
+.ada-hot-soup:before {
+  content: "\ee1e";
+}
+.ada-ice-cream:before {
+  content: "\ee1f";
+}
+.ada-ice-cream-1:before {
+  content: "\ee20";
+}
+.ada-ice-cream-2:before {
+  content: "\ee21";
+}
+.ada-ice-cream-3:before {
+  content: "\ee22";
+}
+.ada-ice-cream-4:before {
+  content: "\ee23";
+}
+.ada-ice-cream-5:before {
+  content: "\ee24";
+}
+.ada-ice-cream-6:before {
+  content: "\ee25";
+}
+.ada-ice-cream-7:before {
+  content: "\ee26";
+}
+.ada-ice-cream-cone:before {
+  content: "\ee27";
+}
+.ada-icecream-cup:before {
+  content: "\ee28";
+}
+.ada-ice-cream-in-glass:before {
+  content: "\ee29";
+}
+.ada-ice-lolly:before {
+  content: "\ee2a";
+}
+.ada-ice-lolly-1:before {
+  content: "\ee2b";
+}
+.ada-ice-lolly-2:before {
+  content: "\ee2c";
+}
+.ada-ice-lolly-3:before {
+  content: "\ee2d";
+}
+.ada-ice-lolly-4:before {
+  content: "\ee2e";
+}
+.ada-ice-lolly-5:before {
+  content: "\ee2f";
+}
+.ada-ice-lolly-6:before {
+  content: "\ee30";
+}
+.ada-ice-lolly-7:before {
+  content: "\ee31";
+}
+.ada-leaves-of-herbs:before {
+  content: "\ee32";
+}
+.ada-lemonade:before {
+  content: "\ee33";
+}
+.ada-lemon-slice:before {
+  content: "\ee34";
+}
+.ada-loaves-of-bread:before {
+  content: "\ee35";
+}
+.ada-lollipop:before {
+  content: "\ee36";
+}
+.ada-lollipop-1:before {
+  content: "\ee37";
+}
+.ada-lollipop-2:before {
+  content: "\ee38";
+}
+.ada-lollipop-3:before {
+  content: "\ee39";
+}
+.ada-lollipop-4:before {
+  content: "\ee3a";
+}
+.ada-long-cofee-pot:before {
+  content: "\ee3b";
+}
+.ada-meal:before {
+  content: "\ee3c";
+}
+.ada-meat:before {
+  content: "\ee3d";
+}
+.ada-meat-slice:before {
+  content: "\ee3e";
+}
+.ada-melon:before {
+  content: "\ee3f";
+}
+.ada-menu:before {
+  content: "\ee40";
+}
+.ada-milk:before {
+  content: "\ee41";
+}
+.ada-milk-1:before {
+  content: "\ee42";
+}
+.ada-milk-jar-with-label:before {
+  content: "\ee43";
+}
+.ada-milk-package:before {
+  content: "\ee44";
+}
+.ada-mitten:before {
+  content: "\ee45";
+}
+.ada-mixer:before {
+  content: "\ee46";
+}
+.ada-muffin:before {
+  content: "\ee47";
+}
+.ada-muffin-1:before {
+  content: "\ee48";
+}
+.ada-muffin-2:before {
+  content: "\ee49";
+}
+.ada-muffin-3:before {
+  content: "\ee4a";
+}
+.ada-mushroom:before {
+  content: "\ee4b";
+}
+.ada-noodles:before {
+  content: "\ee4c";
+}
+.ada-noodles-1:before {
+  content: "\ee4d";
+}
+.ada-noodles-2:before {
+  content: "\ee4e";
+}
+.ada-noodle-soup-on-a-bowl:before {
+  content: "\ee4f";
+}
+.ada-nut:before {
+  content: "\ee50";
+}
+.ada-olive:before {
+  content: "\ee51";
+}
+.ada-olive-oil:before {
+  content: "\ee52";
+}
+.ada-onion:before {
+  content: "\ee53";
+}
+.ada-onion-bulb:before {
+  content: "\ee54";
+}
+.ada-onion-bulb-1:before {
+  content: "\ee55";
+}
+.ada-opened-peas:before {
+  content: "\ee56";
+}
+.ada-orange:before {
+  content: "\ee57";
+}
+.ada-orange-1:before {
+  content: "\ee58";
+}
+.ada-orange-2:before {
+  content: "\ee59";
+}
+.ada-orange-with-leaf:before {
+  content: "\ee5a";
+}
+.ada-packed-sausage:before {
+  content: "\ee5b";
+}
+.ada-pair-of-gloves:before {
+  content: "\ee5c";
+}
+.ada-paper-cupcake:before {
+  content: "\ee5d";
+}
+.ada-peach-piece:before {
+  content: "\ee5e";
+}
+.ada-pear:before {
+  content: "\ee5f";
+}
+.ada-peeler:before {
+  content: "\ee60";
+}
+.ada-pepper:before {
+  content: "\ee61";
+}
+.ada-pitcher:before {
+  content: "\ee62";
+}
+.ada-pitcher-1:before {
+  content: "\ee63";
+}
+.ada-pizza:before {
+  content: "\ee64";
+}
+.ada-pizza-1:before {
+  content: "\ee65";
+}
+.ada-pizza-2:before {
+  content: "\ee66";
+}
+.ada-pizza-3:before {
+  content: "\ee67";
+}
+.ada-pot:before {
+  content: "\ee68";
+}
+.ada-pot-1:before {
+  content: "\ee69";
+}
+.ada-pot-2:before {
+  content: "\ee6a";
+}
+.ada-pot-3:before {
+  content: "\ee6b";
+}
+.ada-preserved-in-a-bottle:before {
+  content: "\ee6c";
+}
+.ada-pumpkin:before {
+  content: "\ee6d";
+}
+.ada-restaurant:before {
+  content: "\ee6e";
+}
+.ada-restaurant-1:before {
+  content: "\ee6f";
+}
+.ada-restaurant-2:before {
+  content: "\ee70";
+}
+.ada-restaurant-menu-card:before {
+  content: "\ee71";
+}
+.ada-restaurant-utensils:before {
+  content: "\ee72";
+}
+.ada-rice:before {
+  content: "\ee73";
+}
+.ada-rice-1:before {
+  content: "\ee74";
+}
+.ada-rice-bowl-with-chopsticks:before {
+  content: "\ee75";
+}
+.ada-roast-chicken:before {
+  content: "\ee76";
+}
+.ada-roast-chicken-1:before {
+  content: "\ee77";
+}
+.ada-salmon:before {
+  content: "\ee78";
+}
+.ada-sausage:before {
+  content: "\ee79";
+}
+.ada-sausage-1:before {
+  content: "\ee7a";
+}
+.ada-sausage-2:before {
+  content: "\ee7b";
+}
+.ada-sausage-on-a-fork:before {
+  content: "\ee7c";
+}
+.ada-sausage-on-a-fork-1:before {
+  content: "\ee7d";
+}
+.ada-shop:before {
+  content: "\ee7e";
+}
+.ada-shop-1:before {
+  content: "\ee7f";
+}
+.ada-small-mushroom:before {
+  content: "\ee80";
+}
+.ada-snack:before {
+  content: "\ee81";
+}
+.ada-soft-drink:before {
+  content: "\ee82";
+}
+.ada-soft-drink-1:before {
+  content: "\ee83";
+}
+.ada-soft-drink-2:before {
+  content: "\ee84";
+}
+.ada-soft-drink-3:before {
+  content: "\ee85";
+}
+.ada-soft-drink-4:before {
+  content: "\ee86";
+}
+.ada-soup:before {
+  content: "\ee87";
+}
+.ada-soup-1:before {
+  content: "\ee88";
+}
+.ada-soup-2:before {
+  content: "\ee89";
+}
+.ada-soup-3:before {
+  content: "\ee8a";
+}
+.ada-soup-4:before {
+  content: "\ee8b";
+}
+.ada-soup-5:before {
+  content: "\ee8c";
+}
+.ada-soup-6:before {
+  content: "\ee8d";
+}
+.ada-soup-7:before {
+  content: "\ee8e";
+}
+.ada-soup-8:before {
+  content: "\ee8f";
+}
+.ada-soup-9:before {
+  content: "\ee90";
+}
+.ada-soup-ladle:before {
+  content: "\ee91";
+}
+.ada-spatula:before {
+  content: "\ee92";
+}
+.ada-spoon-and-fork-upside-down:before {
+  content: "\ee93";
+}
+.ada-squeezer:before {
+  content: "\ee94";
+}
+.ada-squid:before {
+  content: "\ee95";
+}
+.ada-strawberry:before {
+  content: "\ee96";
+}
+.ada-sugar:before {
+  content: "\ee97";
+}
+.ada-sushi:before {
+  content: "\ee98";
+}
+.ada-sushi-platter-with-chopsticks:before {
+  content: "\ee99";
+}
+.ada-syrup:before {
+  content: "\ee9a";
+}
+.ada-syrup-1:before {
+  content: "\ee9b";
+}
+.ada-taco:before {
+  content: "\ee9c";
+}
+.ada-take-away-tacos:before {
+  content: "\ee9d";
+}
+.ada-tea-bag-with-tag:before {
+  content: "\ee9e";
+}
+.ada-teapot-and-cup:before {
+  content: "\ee9f";
+}
+.ada-three-balls-ice-cream-cone:before {
+  content: "\eea0";
+}
+.ada-three-bananas:before {
+  content: "\eea1";
+}
+.ada-toast:before {
+  content: "\eea2";
+}
+.ada-toast-1:before {
+  content: "\eea3";
+}
+.ada-tomato:before {
+  content: "\eea4";
+}
+.ada-tomato-healthy-veggie:before {
+  content: "\eea5";
+}
+.ada-traditional-mate:before {
+  content: "\eea6";
+}
+.ada-tray:before {
+  content: "\eea7";
+}
+.ada-tube-glass-with-shine:before {
+  content: "\eea8";
+}
+.ada-turnip:before {
+  content: "\eea9";
+}
+.ada-turnip-1:before {
+  content: "\eeaa";
+}
+.ada-two-layer-birthday-cake-with-candle:before {
+  content: "\eeac";
+}
+.ada-upsized-drink-with-straw:before {
+  content: "\eead";
+}
+.ada-very-hot-drink-with-shine:before {
+  content: "\eeae";
+}
+.ada-watermelon:before {
+  content: "\eeaf";
+}
+.ada-watermelon-slice:before {
+  content: "\eeb0";
+}
+.ada-wheat:before {
+  content: "\eeb1";
+}
+.ada-wine:before {
+  content: "\eeb2";
+}
+.ada-wine-bottle-in-bucket-with-two-glasses:before {
+  content: "\eeb3";
+}
+.ada-wine-crystal-cup:before {
+  content: "\eeb4";
+}
+.ada-wine-glass:before {
+  content: "\eeab";
 }
