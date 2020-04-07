@@ -457,12 +457,16 @@ span.file-s {
     color: #fff;
     font-size: 55px;
 }
-.svg-lable:hover {
-    transform: scale(2.9); /* Увеличиваем масштаб */
+.svg-lable:hover{
+  overflow: hidden;
+    position: relative;
+    transform: scale(5.9);
     background-color: #000;
     text-align: center;
     padding: 5px;
-   }
+    display: flex;
+    align-items: center;
+}
    .table td, .table th {
        padding: 5px 0!important;
        /* vertical-align: top; */
