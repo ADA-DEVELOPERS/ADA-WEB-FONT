@@ -9,6 +9,8 @@
    <link rel="stylesheet" href="resource/css/main.css">
    <link rel="stylesheet" href="resource/plugins/bootstrap/bootstrap.min.css">
    <link rel="stylesheet" href="resource/plugins/ADA-WEB-FONT/style.css">
+   <script type="text/javascript" src="resource/js/jquery.min.js"></script>
+   <script type="text/javascript" src="resource/js/svg.js"></script>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <title>Home page</title>
@@ -46,14 +48,11 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md-12 align-self-center">
-      <!-- заменяем на наш код -->
-      <form action="/upload.php">
       <div id="dropZone">
-        Для загрузки, перетащите файл сюда.
+        Для загрузки, перетащите файл сюда или
+		<label class="chous" for="myfile">Выберите файлы</label>
+		<input type="file" onchange="handleFileSelect(event)" accept="image/svg+xml" class="myfile" id="myfile" name="myfile" multiple="multiple"/>
       </div>
-    </form>
-    </div>
   </div>
   <div class="col align-self-center">
     <!-- <hr> -->
@@ -63,16 +62,15 @@
     </div>
     <div class="col-md-8 align-self-center">
       <table class="table  table-hover">
-
-        <tbody>
+        <tbody class="addfile">
           <tr>
             <th class="svg-icon">
               <div class=" svg-lable">
                 <i class="ada-cubes"> </i>
               </div>
-            </th>
-            <td><span class="file-s">File name</span><br>monster.svg</td>
-            <td><span class="file-s">File size</span><br>125 Kb</td>
+            </th class="info_svg">
+            <td><span class="file-s">File name</span><br><span class="file-name">monster.svg</span></td>
+            <td><span class="file-s">File size</span><br><span class="file-size">125 Kb</span></td>
             <td class="x-close" title="Вы точно хотите удолить иконку из списка?"><button type="button" class="btn btn-outline-danger">Удалить</button>
           </tr>
           <tr>
@@ -94,7 +92,7 @@
             <td><span class="file-s">File name</span><br>red-cat.svg</td>
             <td><span class="file-s">File size</span><br>25 Kb</td>
             <td class="x-close" title="Вы точно хотите удолить иконку из списка?"><button type="button" class="btn btn-outline-danger">Удалить</button>
-</td>
+			</td>
           </tr>
         </tbody>
       </table>
@@ -104,4 +102,6 @@
   </div>
 </div>
  </body>
+	<div class="col-md-2 align-self-center " style="height:150px">
+    </div>
  </html>
