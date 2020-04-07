@@ -526,3 +526,6 @@ select.input-id {
     margin: 8px 0;
     padding: 5px;
 }
+img.thumb {
+    width: 70px;
+}
