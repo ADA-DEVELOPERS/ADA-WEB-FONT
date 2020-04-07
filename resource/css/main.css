@@ -49,6 +49,20 @@ i.menu {
 i.icons{
   color: #fff;
 }
+.myfile {
+	display: none;
+}
+.chous {
+    cursor: pointer;
+	
+    font: 12px/50px Tahoma;
+    transition: all 0.18s ease-in-out;
+    color: #4FD666;
+}
+.chous:hover {
+    color: red;
+    background-position: bottom left;
+}
 xmp {
     font-size: 15px;
     display: contents;
@@ -389,7 +403,7 @@ b.version {
     color: #009a8a;
 }
 #dropZone {
-    color: #555;
+    color: #ffffff;
     font-family: monospace;
     font-size: 11px;
     text-align: center;
@@ -398,7 +412,7 @@ b.version {
     padding: 50px 0;
     margin: 50px auto;
 
-    background: #eee;
+    background: #004c44;
     border: 1px solid #ccc;
 
     -webkit-border-radius: 5px;
@@ -407,8 +421,8 @@ b.version {
 }
 
 #dropZone.hover {
-    background: #ddd;
-    border-color: #aaa;
+    background: #32756e;
+    border-color: #00ff1f;
 }
 
 #dropZone.error {
@@ -457,18 +471,19 @@ span.file-s {
     color: #fff;
     font-size: 55px;
 }
-.svg-lable:hover {
-    /* overflow: hidden; */
+.svg-lable:active {
+    /* overflow: hidden;  */
     /* position: relative; */
-    transform: scale(5.9);
-    background-color: #000;
+    transform: scale(6);
+	transition: all 0.38s;
+    background-color: #263137;
     text-align: center;
     padding: 5px;
     /* display: flex; */
     /* align-items: center; */
 }
    .table td, .table th {
-       padding: 5px 0!important;
+       padding: 5px 7px!important;
        /* vertical-align: top; */
        border-top: 1px solid #dee2e6!important;
    }
