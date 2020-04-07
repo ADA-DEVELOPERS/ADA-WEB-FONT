@@ -457,9 +457,21 @@ span.file-s {
     color: #fff;
     font-size: 55px;
 }
-th.svg-icon {
-    WIDTH: 50PX;
-}
-td.x-close {
-    width: 50px;
+.svg-lable:hover {
+    transform: scale(2.9); /* Увеличиваем масштаб */
+    background-color: #000;
+    text-align: center;
+    padding: 5px;
+   }
+   .table td, .table th {
+       padding: 5px 0!important;
+       /* vertical-align: top; */
+       border-top: 1px solid #dee2e6!important;
+   }
+
+   td.x-close {
+       width: 50px;
+   }
+   th.svg-icon {
+    width: 78px;
 }
