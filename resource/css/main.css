@@ -388,3 +388,78 @@ b.version {
     font-family: Arial;
     color: #009a8a;
 }
+#dropZone {
+    color: #555;
+    font-family: monospace;
+    font-size: 11px;
+    text-align: center;
+
+    width: 400px;
+    padding: 50px 0;
+    margin: 50px auto;
+
+    background: #eee;
+    border: 1px solid #ccc;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#dropZone.hover {
+    background: #ddd;
+    border-color: #aaa;
+}
+
+#dropZone.error {
+    background: #faa;
+    border-color: #f00;
+}
+
+#dropZone.drop {
+    background: #afa;
+    border-color: #0f0;
+}
+span.svg-lable {
+    border: solid 1PX #009a8a;
+    padding: 15px 10px;
+    COLOR: #fff;
+}
+thead.table-add-svg {
+    padding: 5px;
+    color: #ffffffbd;
+    font-family: monospace;
+}
+.row.select-file {
+    color: #009a8a;
+    font-family: auto;
+}
+td.x-close {
+    padding: 0px;
+    font-size: 35px;
+    font-family: monospace;
+    color: #fff;
+}
+td.x-close:hover::after {
+ content: attr(data-title);
+}
+.table td,
+.table th {
+    /* padding: .75rem; */
+    vertical-align: center!important;
+    /* border-top: 1px solid #dee2e6 */
+}
+span.file-s {
+    color: #fff;
+    font-size: 15px;
+}
+.svg-lable {
+    color: #fff;
+    font-size: 55px;
+}
+th.svg-icon {
+    WIDTH: 50PX;
+}
+td.x-close {
+    width: 50px;
+}
