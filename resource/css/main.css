@@ -479,3 +479,35 @@ span.file-s {
    th.svg-icon {
     width: 78px;
 }
+.icon-big {
+    font-size: 279px;
+    background-color: #009a8a;
+    height: 300px;
+    width: 300px;
+    color: #263137;
+    text-align: center;
+    border: solid 2px #fff;
+    margin: 15px 0;
+    border-radius: 15px;
+}
+span.id-id {
+    font-size: 25px;
+    font-family: monospace;
+}
+input.input-id {
+    /* width: 280px; */
+    font-family: monospace;
+    font-size: 19px;
+}
+.elmnt {
+    padding: 5px 0;
+}
+select.input-id {
+    width: 50%%;
+}
+.ino {
+  border: solid 1px;
+    border-radius: 5px;
+    margin: 8px 0;
+    padding: 5px;
+}
