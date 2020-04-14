@@ -1,16 +1,19 @@
- <!DOCTYPE html>
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html lang="en">
  <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <link rel="shortcut icon" href="favicon.ico">
-   <link rel="stylesheet" href="resource/css/main.css">
+   
    <link rel="stylesheet" href="resource/plugins/bootstrap/bootstrap.min.css">
    <link rel="stylesheet" href="resource/plugins/ADA-WEB-FONT/style.css">
-   <script type="text/javascript" src="resource/js/jquery.min.js"></script>
-   <script type="text/javascript" src="resource/js/svg.js"></script>
+   
+   <link rel="stylesheet" href="resource/css/main.css">
+	<script type="text/javascript" src="resource/js/jquery.min.js"></script>
+	<script type="text/javascript" src="resource/plugins/bootstrap/bootstrap.min.js"></script>
+	<script type="text/javascript" src="resource/js/svg.js"></script>
+   
+   
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <title>Home page</title>
@@ -18,28 +21,28 @@
  <body>
 <div class="container">
   <div class="row">
-  <div class="col-md-6">
-    <div class="ada-title">
-      <a href="index.html" class="logo"><img class="logo" src="resource/images/logo.png" alt="ADA WEB FONT logo"></a>
-      <h1 class="ada-h1">ADA WEB FONT</h1>
-      <hr>
-      <h5 class="ada-sub-title">for your work</h5>
-      <div class="mine-menu">
-        <a href="index-dark.html"><i class="menu">Home</i></a>
-        <a href="start-dark.html"><i class="menu">Start</i></a>
-        <a href="icon-dark.html"><i class="menu">Icons</i></a>
-        <a href="for-designer-dark.html"><i class="menu">For designers</i></a>
-        <a href="http://adadevteam.com/"><i class="menu">ADA TEAM</i></a>
-        <!-- <a href="docs.html"><i class="menu">Docs</i></a> -->
-        <!-- <a href="#"><i class="menu">Support</i></a> -->
-        <!-- <a href="#"><i class="menu">Upgrade</i></a> -->
-        <!-- <a href="#"><i class="menu">Blog</i></a> -->
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6">
-    <img class="ada-title-img" src="resource/images/undraw_coding_6mjf.svg" alt="">
-  </div>
+	  <div class="col-md-6">
+		<div class="ada-title">
+		  <a href="index.html" class="logo"><img class="logo" src="resource/images/logo.png" alt="ADA WEB FONT logo"></a>
+		  <h1 class="ada-h1">ADA WEB FONT</h1>
+		  <hr>
+		  <h5 class="ada-sub-title">for your work</h5>
+		  <div class="mine-menu">
+			<a href="index-dark.html"><i class="menu">Home</i></a>
+			<a href="start-dark.html"><i class="menu">Start</i></a>
+			<a href="icon-dark.html"><i class="menu">Icons</i></a>
+			<a href="for-designer-dark.html"><i class="menu">For designers</i></a>
+			<a href="http://adadevteam.com/"><i class="menu">ADA TEAM</i></a>
+			<!-- <a href="docs.html"><i class="menu">Docs</i></a> -->
+			<!-- <a href="#"><i class="menu">Support</i></a> -->
+			<!-- <a href="#"><i class="menu">Upgrade</i></a> -->
+			<!-- <a href="#"><i class="menu">Blog</i></a> -->
+		  </div>
+		</div>
+	  </div>
+	  <div class="col-md-6">
+		<img class="ada-title-img" src="resource/images/undraw_coding_6mjf.svg" alt="">
+	  </div>
   </div>
   <br>
   <div class="row">
@@ -51,26 +54,28 @@
       <div id="dropZone">
         Для загрузки, перетащите файл сюда или
 		<label class="chous" for="myfile">Выберите файлы</label>
-		<input type="file" onchange="handleFileSelect(event)" accept="image/svg+xml" class="myfile" id="myfile" name="myfile" multiple="multiple"/>
+		<input type="file" onchange="handleFileSelect(event)" accept="image/svg+xml" class="display-none" id="myfile" name="myfile" multiple="multiple"/>
       </div>
   </div>
-  <div class="col align-self-center">
-    <!-- <hr> -->
+  <div class="select-file">
+	<div class="row">
+		<div class="col-md-2 align-self-center">
+		</div>
+		<div class="col-md-8 align-self-center addfile">
+		  <table class="table  table-hover">
+			<tbody class="addfile">
+				
+			</tbody>
+			
+		  </table>
+		</div>
+		<div class="col-md-2 align-self-center">
+		</div>
+	</div>
   </div>
-  <div class="row select-file">
-    <div class="col-md-2 align-self-center">
-    </div>
-    <div class="col-md-8 align-self-center">
-      <table class="table  table-hover">
-        <tbody class="addfile">
-        </tbody>
-      </table>
-    </div>
-    <div class="col-md-2 align-self-center">
-    </div>
-  </div>
+  <div class="col-md-12 editsvg" style="min-height:150px">
+	
+   </div>
 </div>
  </body>
-	<div class="col-md-2 align-self-center " style="height:150px">
-    </div>
  </html>

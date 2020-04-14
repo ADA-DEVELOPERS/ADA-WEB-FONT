@@ -49,7 +49,7 @@ i.menu {
 i.icons{
   color: #fff;
 }
-.myfile {
+.display-none {
 	display: none;
 }
 .chous {
@@ -136,9 +136,7 @@ img.boundaries {
 .col-md-6.boundaries {
     text-align: center;
 }
-input.form-control {
-    margin: -19px 0 0 0!important;
-}
+
 .col-md-12.serch {
     text-align: center;
     padding: 40px;
@@ -262,9 +260,6 @@ img.admin-icon-blok {
 
 h1 {
   text-align: center;
-  font-family: Tahoma, Arial, sans-serif;
-  color: #06D85F;
-  margin: 80px 0;
 }
 
 .box {
@@ -470,12 +465,17 @@ span.file-s {
 .svg-lable {
     color: #fff;
     font-size: 55px;
+	transition: all 0.45s;
 }
 .svg-lable:active {
     /* overflow: hidden;  */
     /* position: relative; */
-    transform: scale(6);
-	transition: all 0.38s;
+	transition: all 0.28s;
+	transform: scale(6);
+	-webkit-transform: scale(6);
+    -moz-transform: scale(6);
+    -ms-transform: scale(6);
+    -o-transform: scale(6);
     background-color: #263137;
     text-align: center;
     padding: 5px;
@@ -494,17 +494,7 @@ span.file-s {
    th.svg-icon {
     width: 78px;
 }
-.icon-big {
-    font-size: 279px;
-    background-color: #009a8a;
-    height: 300px;
-    width: 300px;
-    color: #263137;
-    text-align: center;
-    border: solid 2px #fff;
-    margin: 15px 0;
-    border-radius: 15px;
-}
+
 span.id-id {
     font-size: 25px;
     font-family: monospace;
@@ -526,6 +516,126 @@ select.input-id {
     margin: 8px 0;
     padding: 5px;
 }
-img.thumb {
-    width: 70px;
+.show {
+  display: block;
+}
+.card-header {
+	padding: 0rem 1rem;
+}
+.svg-element {
+	background-color: #aee6bb;
+	position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+	text-align: center;
+	padding: .375rem .75rem;
+    font-family: inherit;
+    margin: 0px;
+    margin-bottom: 0rem;
+}
+.card-block {
+	background-color: #aee6bb;
+	position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+.card-body {
+	background-color: #d4edda;
+	padding: 0.3rem;
+	background-color: azure
+}
+
+#svg-element {
+	background-color: azure;
+    padding: 7px;
+	max-height: 320px;
+	border-radius: 5px;
+}
+.block-element {
+	color: black;
+    font-weight: bolder;
+}
+#accordion {
+	color: black;
+    font-weight: bolder;
+}
+.svg-block {
+	padding: 0.2rem 0.2rem;
+    font-family: inherit;
+    margin: 0px;
+	margin-bottom: 0rem;
+}
+.block-name {
+	background-color: #e88891;
+	padding: .375rem .75rem;
+    font-family: inherit;
+    margin: 0px;
+	margin-bottom: 0rem;
+}
+.collapsed {
+	background-color: #aee6bb;
+}
+.svg-check-element {
+	    margin: 0px;
+}
+.svg-check-block {
+	    margin: 0px;
+}
+.svg-info label{
+	display: table-caption;
+}
+.icon-big {
+    padding: 0px;
+    background-color: #d4edda;
+}
+.btn-svg-bottom {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+.btn-svg-left {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+.btn-svg-top {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+.btn-svg-right {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+.btn-svg-size {
+}
+.element-list {
+	padding: 0.2rem 0.2rem;
+    font-family: inherit;
+    margin: 0px;
+	margin-bottom: 0rem;
+}
+.block-element-list {
+	padding: 0.2rem 0.2rem;
+    font-family: inherit;
+    margin: 0px;
+	margin-bottom: 0rem;
 }

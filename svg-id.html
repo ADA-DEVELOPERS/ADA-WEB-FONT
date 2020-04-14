@@ -1,94 +1,192 @@
- <!DOCTYPE html>
- <!DOCTYPE html>
- <html lang="en">
- <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <link rel="shortcut icon" href="favicon.ico">
-   <link rel="stylesheet" href="resource/css/main.css">
-   <link rel="stylesheet" href="resource/plugins/bootstrap/bootstrap.min.css">
-   <link rel="stylesheet" href="resource/plugins/ADA-WEB-FONT/style.css">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	
+	<link rel="stylesheet" href="resource/plugins/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="resource/plugins/ADA-WEB-FONT/style.css">
+	
+	<link rel="stylesheet" href="resource/css/main.css">
+	<script type="text/javascript" src="resource/js/jquery.min.js"></script>
+	<script type="text/javascript" src="resource/plugins/bootstrap/bootstrap.min.js"></script>
+	<script type="text/javascript" src="resource/js/svg2.js"></script>
+   
+   
+   
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   <title>Icon adjustment</title>
- </head>
- <body>
-   <div class="container">
-
-    <br>
-    <br>
-    <h1>Icon adjustment</h1>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="id-name">
-            <span class="id-id">ID </span><input class="input-id" ENGINE="text" autofocus maxlength="29"value="ada-cubes"><span class="valid-id"><b class="chek-corect">&#9989; </b></span>
-          </div>
-          <div class="icon-big">
-            <i class="ada-cubes"> </i>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="elmnt ino">
-            #1 | Element
-            <select class="input-id">
-              <option label="" value="1" ></option>
-            	<option>Element #1</option>
-            	<option>Element #2</option>
-            	<option>Element #3</option>
-            	<option>Element #4</option>
-            </select>
-          </div>
-          <div class="elmnt ino">
-            #1 | Element
-            <select class="input-id">
-              <option label="" value="1" ></option>
-            	<option disabled>Element #1</option>
-            	<option>Element #2</option>
-            	<option>Element #3</option>
-            	<option>Element #4</option>
-            </select>
-          </div>
-          <div class="elmnt ino">
-            #1 | Element
-            <select class="input-id">
-              <option label="" value="1" ></option>
-              <option disabled>Element #1</option>
-            	<option disabled>Element #2</option>
-            	<option>Element #3</option>
-            	<option>Element #4</option>
-            </select>
-          </div>
-        </div>
-      <div class="col-md-4">
-            <div class="elmnt ino">
-              #1 | Block <input type="color"/>
-            </div>
-              <div class="elmnt ino">
-                #2 | Block <input type="color"/>
-              </div>
-              <button type="button" class="btn btn-primary btn-sm btn-block">Add block</button>
-            </div>
-          </div>
-          <br>
+	<title>Icon adjustment</title>
+</head>
+<body>
+<div class="container">
+<form class="editor">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<div class="row">
+			<!--  -------------------------- SVG ----------   -->
+			<div class="col-md-6">
+				<div class="icon-big">
+				</div>
+					
+				<br>
+				
+				
+				<div class="form-group">
+					<label for="inputPassword">ID</label>
+					<input type="text" class="form-control" id="input-id" value="id" placeholder="ID">
+				</div>
+				<div class="form-group">
+					<label for="staticEmail">Создатель</label>
+					<input type="text" readonly class="form-control" id="inputName" placeholder="DanLoad" readonly>
+				</div>
+				<div class="form-group">
+					<label for="inputPassword">Теги</label>
+					<input type="text" class="form-control" id="input-tag" placeholder="пример: Дом Квартира">
+				</div>
+				 
+			</div>
+			<!--  -------------------------- SVG ----------   -->
+			
+			
+			<div class="col-md-6">
+				<!--  -------------------------- Element ----------   -->
+				<div class="block-element">
+					<div id="svg-element">
+						<div class="row element-list">
+						
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<button type="button" onclick="AddNewBlock(event)" class="btn btn-primary btn-block">Add new block</button>
+						</div>
+						<div class="col-md-6">
+							<button type="button" onclick="AddActivBlock(event)" class="btn btn-primary btn-block">Add to activ block</button>
+						</div>
+					</div>
+				</div>
+				<!--  -------------------------- Element ----------   -->
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<!--  -------------------------- Collapse ----------   -->
+					<div id="accordion">
+					
+						<div class="card-block">
+						
+						
+							<div class="block-name collapsed" data-toggle="collapse" data-target="#collapse1">
+							  <label class="svg-check-block">1# BLOCK</label>
+							</div>
+							
+							
+							<div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+								<div class="card-body">
+									<div class="row block-element-list">
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="col-md-12">
+											<button type="button" class="btn btn-danger btn-sm btn-block">Delete</button>
+										</div>
+										
+										
+										
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						<div class="card-block">
+							<div class="block-name collapsed" data-toggle="collapse" data-target="#collapse2">
+							  <label class="svg-check-block">1# BLOCK</label>
+							</div>
+							<div id="collapse2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+								<div class="card-body">
+									<div class="row svg-block">
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+										<div class="svg-element col-md-6">
+											<label class="svg-check-block"><input class="display-none" type="checkbox" name="vehicle1" value="Bike">1# Element</label>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+					</div>
+					<!--  -------------------------- Collapse ----------   -->
+			</div>
+		</div>
+		  
+        <br>
         <hr>
+		
+		
+		<!--  -------------------------- Info ----------   -->
         <div class="row">
-        <div class="col-md-12">
-          <div class="alert alert-success" role="alert">
-            <h4 class="alert-heading">Unable to save required.</h4>
-            <hr>
-            <p>Please assign Element !!!</p>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-              <button type="button" class="btn btn-danger btn-block">Delete</button>
-            </div>
-            <div class="col-md-6">
-              <button type="button" class="btn btn-success btn-block">Save</button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
- </body>
- </html>
+			<div class="col-md-12">
+				<div class="alert alert-success" role="alert">
+					<h4 class="alert-heading">Unable to save required.</h4>
+					<hr>
+					<p>Please assign Element !!!</p>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<button type="button" class="btn btn-danger btn-block">Delete</button>
+					</div>
+					<div class="col-md-6">
+						<button type="button" class="btn btn-success btn-block">Save</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  -------------------------- Info ----------   -->
+		
+		
+		
+		
+		
+		
+		
+		
+</form>
+</div>
+</body>
+</html>
