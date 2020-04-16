@@ -1,8 +1,7 @@
 var svgContent = [];
 var svgText = [];
 var index = 0;
-var colorElement = ["#a96c6c", "#75a96c", "#6ca9a1", "#6c79a9", "#896ca9", "#a96c8e", "#a98e6c", "#6ca982", "#6c9ea9", "#736ca9", "#976ca9", "#a96c7d", "#a9a46c", "#8fa96c", "#6ca992", "#6c84a9", "#7e6ca9", "#a86ca9", "#7b5151", "#7b7451", "#677b51", "#517b58", "#517b73", "#516a7b", "#54517b", "#6d517b", "#7b6251", "#787b51", "#5d7b51", "#517b60", "#517b7b", "#51647b", "#5d517b", "#76517b", "#7b6c51", "#6f7b51", "#527b51", "#517b6a", "#51737b", "#51587b", "#65517b", "#7b5178"];
-
+var blok_id = 0;
 
 
 $(document).ready(function() {
@@ -184,7 +183,6 @@ function EditSvg() {
 			for(var i = 0; file = svgContent[i]; i++) {
 				html1 = $.parseHTML(data);
 				html = $(html1).find('.editor');
-				console.log(html);
 				svg = $.parseHTML(svgText[i]);
 				var viewBox ="";
 				
@@ -205,9 +203,9 @@ function EditSvg() {
 				
 				
 				//Красим элементы
-				var element = $(svg).find('path, circle');
+				var element = $(svg).find('path, circle, rect, polygon');
 				for(var s = 0; f = element[s]; s++) {
-					$(element[s]).attr("style", "fill:" + colorElement[s]);
+					$(element[s]).removeAttr("opacity");
 					$(element[s]).attr("ada", "element");
 					$(element[s]).attr("ada-id", "element-" + s);
 					var elementSvg = '<div class="svg-element col-md-6"><label ada-id="svg-' + s +'" class="svg-check-element"><input class="display-none" id="' + file.name.split('.')[0] + '-' + s + '" ada-id="element-' + s + '" type="checkbox" name="vehicle1" value="Bike">' + (s + 1) + '# Element</label></div>';
@@ -221,8 +219,6 @@ function EditSvg() {
 				for(var d = 0; f = svgHtml[d]; d++) {
 					//console.log(svgHtml);
 					if(f.tagName == "svg"){
-						console.log(svgHtml[d]);
-						console.log(element);
 						for(var t = 0; f = element[t]; t++) {
 							svgHtml[d].append(element[t]);
 						}
@@ -232,7 +228,6 @@ function EditSvg() {
 				
 				$(html).find('.icon-big').append(svgHtml);
 				$(html).find('input#input-id')[0].attributes.value.value = file.name.split('.')[0];
-				console.log(html);
 				$("div.select-file").append(html[0].outerHTML);
 					
 					
@@ -248,21 +243,26 @@ function EditSvg() {
 
 
 
+
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 //Выдиление элементов!
 $(document).on('click', '.svg-check-element input, .icon-big [ada="element"]', function() {
 	
 	if($(this).attr("ada") == "element") {
 		$(this).parents('form').find('.element-list input[ada-id="' + $(this).attr("ada-id") + '"]')[0].checked = !$(this).parents('form').find('.element-list input[ada-id="' + $(this).attr("ada-id") + '"]')[0].checked;
 	}
-	console.log($(this).attr("ada-id"));
-	console.log($(this).parents('form'));
-	console.log($(this).parents('form').find('.element-list input[ada-id="' + $(this).attr("ada-id") + '"]')[0].checked);
 	if($(this).parents('form').find('.element-list input[ada-id="' + $(this).attr("ada-id") + '"]')[0].checked) {
 		$(this).parents('form').find('.element-list input[ada-id="' + $(this).attr("ada-id") + '"]').parents("div.svg-element").css('background-color', "#a2abf1");
+		console.log($(this).parents('form').find('.icon-big svg [ada-id="' + $(this).attr("ada-id") + '"]'));
 		$(this).parents('form').find('.icon-big svg [ada-id="' + $(this).attr("ada-id") + '"]').css('fill', "#0027ff");
 	} else {
+		console.log($(this).parents('form').find('.icon-big svg [ada-id="' + $(this).attr("ada-id") + '"]').parents("div.svg-element"));
 		$(this).parents('form').find('.element-list input[ada-id="' + $(this).attr("ada-id") + '"]').parents("div.svg-element").css('background-color', "#aee6bb");
-		$(this).parents('form').find('.icon-big svg [ada-id="' + $(this).attr("ada-id") + '"]').css('fill', colorElement[$(this).attr("ada-id").split('-')[1]]);
+		$(this).parents('form').find('.icon-big svg [ada-id="' + $(this).attr("ada-id") + '"]').removeAttr("style");
+		
 
 	}
 	
@@ -316,7 +316,41 @@ function findAncestor (el, cls) {
 
 
 function AddNewBlock(e) {
-	console.log(e);
+	var form = $(e.toElement).parents('form');
+	if($(form).find('.element-list input:checkbox:checked').length != 0) {
+		var input = $(form).find('.element-list input');
+		var g = '<g ada="block" ada_id="block-' + blok_id + '">\n</g>';
+		g = $.parseHTML(g);
+		var block = '<div class="card-block"><div class="block-name collapsed" data-toggle="collapse" data-target="block-' + blok_id + '"><label class="svg-check-block">1# BLOCK</label></div>' +
+							'<div id="block-' + blok_id + '" class="collapse" aria-labelledby="headingOne" data-parent="#accordion"><div class="card-body"><div class="row block-element-list"></div></div></div></div>';
+		block = $.parseHTML(block);
+		var ind = [];
+		var a = 0;
+				
+		for(var s = 0; s < input.length; s++) {
+			if(input[s].checked) {
+				ind[a] = s;
+				a++;
+				$(g).append($(form).find('.icon-big svg [ada-id="' + $(input)[s].attributes["ada-id"].value + '"]'));
+				//console.log($(form).find('.icon-big svg [ada-id="' + $(input)[s].attributes["ada-id"].value + '"]'));
+				//console.log($(input)[s].attributes["ada-id"].value);
+				
+			}
+		}
+		console.log('.icon-big svg[ada-id="element-' + ind[0] + '"]');
+		console.log($(form).find('.icon-big svg [ada-id="element-' + (ind[0] - 1) + '"]'));
+		$(g).insertAfter($(form).find('.icon-big svg [ada-id="element-' + (ind[0] - 1) + '"]'));
+		var svg = $(form).find('.icon-big svg ');
+		
+		
+		
+		$(form).find('.icon-big').empty();
+		$(form).find('.icon-big').append(svg[0].outerHTML);
+		//$(block).append();
+		
+		//console.log(svg);
+		blok_id++;
+	}
 }
 
 

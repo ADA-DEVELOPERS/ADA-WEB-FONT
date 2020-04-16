@@ -568,7 +568,6 @@ select.input-id {
 #svg-element {
 	background-color: azure;
     padding: 7px;
-	max-height: 320px;
 	border-radius: 5px;
 }
 .block-element {
@@ -632,10 +631,16 @@ select.input-id {
     font-family: inherit;
     margin: 0px;
 	margin-bottom: 0rem;
+	max-height: 350px;
+    overflow: auto;
 }
 .block-element-list {
 	padding: 0.2rem 0.2rem;
     font-family: inherit;
     margin: 0px;
 	margin-bottom: 0rem;
+}
+
+img.thumb {
+	max-width: 70px;
 }
